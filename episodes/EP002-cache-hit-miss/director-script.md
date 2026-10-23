@@ -1,6 +1,6 @@
 # Director script — EP002
 
-- Revision: r1 (chờ duyệt cùng [script.md](script.md))
+- Revision: r1 (đã duyệt cùng [script.md](script.md), 23/10/2026)
 - Script/nguồn đang dùng: [script.md](script.md), [facts.md](facts.md)
 - Voice WAV đã duyệt: chưa có
 - Timing: dự kiến, chưa căn WAV
@@ -26,7 +26,7 @@ Mốc thời gian lấy từ WAV sau khi script được duyệt. Anchor: mỗi 
 
 ## Âm thanh và caption
 
-- Cách đọc thuật ngữ: ứng viên "két", "hít", "mít", "áp", "ri-quét", "đây-ta-bây" trong [script.md](script.md). Chưa nghe thử, chốt sau khi nghe.
+- Cách đọc thuật ngữ: ứng viên "cách", "hít", "mít", "áp", "ri-quét", "đây-ta-bây" trong [script.md](script.md). Chưa nghe thử, chốt sau khi nghe.
 - Phụ đề hiển thị giữ nguyên "cache", "hit", "miss", "request", "database", "app".
 - Ngắt nghỉ quan trọng: sau "Đó là cache miss/hit" để gói tin kịp đến nơi.
 - Nhạc/SFX: chưa có track, bản đầu không nhạc. Chủ kênh cung cấp SFX thì ghi nguồn và quyền dùng.
@@ -34,11 +34,11 @@ Mốc thời gian lấy từ WAV sau khi script được duyệt. Anchor: mỗi 
 
 ## Duyệt
 
-- [ ] Hình và lời bổ trợ nhau; không có cảnh chỉ để trang trí.
+- [x] Hình và lời bổ trợ nhau; không có cảnh chỉ để trang trí.
 - [ ] Mốc thời gian ghi rõ dự kiến hay thật.
 - [ ] Mỗi asset có nguồn và trạng thái quyền dùng.
-- [ ] Người duyệt / ngày / revision: chờ chủ kênh
+- [x] Người duyệt / ngày / revision: chủ kênh / 23/10/2026 / r1 (xem approvals.json)
 
 ## Câu hỏi còn mở
 
-- Chủ kênh có muốn giữ cách đọc "két" cho "cache" hay đọc "cát-sơ"/"ca-sơ"? Sẽ nghe thử cả hai khi có giọng.
+- Cách đọc "cache" đã chốt: "cách" (chủ kênh, 23/10/2026). "hit", "miss", "request", "app", "database" vẫn là ứng viên, chờ nghe thử.

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "episodeId": "EP002",
+  "approvals": [
+    {
+      "gate": "script",
+      "reviewer": "chủ kênh",
+      "timestamp": "2026-10-23T22:25:00+07:00",
+      "revision": "r1",
+      "inputHash": "sha256:0d36a0cf8d0db98168f6c6af8d57306c0519f38e6c503711726f460dae8ccbe2",
+      "inputFiles": ["facts.md"],
+      "artifactHash": "sha256:58e307ce25d31cfe50916a8af6a59e5ebd1b185d78a068bc3662bea22f7f08df",
+      "artifactFiles": ["script.md", "director-script.md"],
+      "verdict": "approved",
+      "note": "Duyệt r1 trong phiên làm việc; kèm quyết định đọc \"cache\" là \"cách\". artifactHash là sha256 của script.md nối director-script.md."
+    }
+  ]
+}

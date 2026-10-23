@@ -2,8 +2,8 @@
 
 - Episode: EP002 (EP001 là bản API tham khảo cũ).
 - Idea: IDEA003.
-- Trạng thái: script_review. Chủ kênh đã chọn; script r1 chờ duyệt, video chưa làm.
-- Hồ sơ: [brief](brief.md), [facts](facts.md), [learning notes](learning-notes.md), [script](script.md), [director](director-script.md).
+- Trạng thái: script_approved (r1, 23/10/2026). Video chưa làm; bước tiếp theo: giọng Hải Đăng, timing, Remotion.
+- Hồ sơ: [brief](brief.md), [facts](facts.md), [learning notes](learning-notes.md), [script](script.md), [director](director-script.md), [approvals](approvals.json).
 - Đối tượng: lập trình viên và người học kỹ thuật.
 - Giọng: Hải Đăng / VieNeu local.
 - Dự kiến: 60–90 giây, không vượt 300 giây.
