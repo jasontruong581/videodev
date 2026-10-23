@@ -13,7 +13,7 @@ Project giúp creator học sâu và giải thích bằng hình: Redis, memory/c
 
 ## Pilot đã chọn
 
-**IDEA003 — Cache hit/miss**, hồ sơ [EP002](episodes/EP002-cache-hit-miss/README.md). Chủ kênh đã chọn chủ đề; script/video chưa duyệt. Scaffold dần từ bộ khung này.
+**IDEA003 — Cache hit/miss**, hồ sơ [EP002](episodes/EP002-cache-hit-miss/README.md). Chủ kênh đã chọn chủ đề; script r1 đang chờ duyệt, video chưa làm. Scaffold dần từ bộ khung này.
 
 [Repository và khôi phục môi trường](docs/repository.md). Engine/model, media tham khảo và ZIP template chỉ lưu local, không nằm trên GitHub.
 
