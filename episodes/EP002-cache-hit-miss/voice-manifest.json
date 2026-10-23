@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "episodeId": "EP002",
+  "engine": "vieneu",
+  "sdkVersion": "3.8.3",
+  "mode": "v3turbo",
+  "backend": "onnx",
+  "voice": "Hải Đăng",
+  "modelRevisions": {
+    "pnnbao-ump/VieNeu-TTS-v3-Turbo": "61b85e3d937fbbacb387714180e8182823512523",
+    "OpenMOSS-Team/MOSS-Audio-Tokenizer-Nano-ONNX": "ceff0d0749bfb3fa2d61149794ec6feef0d1e1ae"
+  },
+  "sampleRate": 48000,
+  "gapSentenceSec": 0.25,
+  "gapLineSec": 0.45,
+  "generatedAt": "2026-10-23T15:26:12+00:00",
+  "totalDurationSec": 52.63,
+  "lines": [
+    {
+      "id": "L01",
+      "say": "Cùng một ri-quét, vì sao lúc thì lấy từ cách, lúc lại phải xuống đây-ta-bây?",
+      "cacheKey": "5449e4422d785adfc5a96d30a94ad3b0eb280fde768955c09194cae05e8394f2",
+      "file": "audio/L01.wav",
+      "durationSec": 3.66,
+      "startSec": 0.08,
+      "endSec": 3.74
+    },
+    {
+      "id": "L02",
+      "say": "Giả sử áp cần hiển thị một sản phẩm. Phía sau áp có hai chỗ để lấy dữ liệu: cách và đây-ta-bây.",
+      "cacheKey": "90aa119782c0a4859ed507562fb43422532f3231ef1602b0a30f53eb98ecd579",
+      "file": "audio/L02.wav",
+      "durationSec": 5.07,
+      "startSec": 4.19,
+      "endSec": 9.26
+    },
+    {
+      "id": "L03",
+      "say": "Đây-ta-bây giữ dữ liệu gốc. Cách là bộ nhớ đệm, truy cập nhanh hơn.",
+      "cacheKey": "1fd78eaa336d44f6a11e1872f429f69cb0f8bcb1582b9b1c34f85e51a0ee419b",
+      "file": "audio/L03.wav",
+      "durationSec": 3.48,
+      "startSec": 9.71,
+      "endSec": 13.19
+    },
+    {
+      "id": "L04",
+      "say": "Ri-quét đầu tiên đến. Áp hỏi cách trước, nhưng cách chưa có sản phẩm này. Đó là cách mít.",
+      "cacheKey": "6f7c1553d48451dc5d8ed40406b8bf78bc647194a78357267f2270a5770c3748",
+      "file": "audio/L04.wav",
+      "durationSec": 4.79,
+      "startSec": 13.64,
+      "endSec": 18.43
+    },
+    {
+      "id": "L05",
+      "say": "Áp xuống đây-ta-bây lấy dữ liệu, ghi một bản vào cách, rồi mới trả kết quả.",
+      "cacheKey": "f22bbef07abd642baa63e24afe36b4e659448880e41494c309af9352adf31a1e",
+      "file": "audio/L05.wav",
+      "durationSec": 4.07,
+      "startSec": 18.88,
+      "endSec": 22.95
+    },
+    {
+      "id": "L06",
+      "say": "Cách mít không phải lỗi. Nó chỉ cho biết lần này cách chưa có thứ cần tìm.",
+      "cacheKey": "1c913f1c5a1dc205e811466e2f050c54c667198795a8de15b7a2a6275e0c4121",
+      "file": "audio/L06.wav",
+      "durationSec": 4.22,
+      "startSec": 23.4,
+      "endSec": 27.62
+    },
+    {
+      "id": "L07",
+      "say": "Ri-quét thứ hai hỏi cùng sản phẩm. Áp vẫn hỏi cách trước, và lần này cách đã có. Đó là cách hít.",
+      "cacheKey": "5b40e640f97bf5ed114e96414e0010952bd20a13b6cdfced40f371eb5ca8c521",
+      "file": "audio/L07.wav",
+      "durationSec": 5.44,
+      "startSec": 28.07,
+      "endSec": 33.51
+    },
+    {
+      "id": "L08",
+      "say": "Dữ liệu trả về từ cách, đây-ta-bây không phải làm gì thêm.",
+      "cacheKey": "93ea2180310dceef26c62dea10b54848ff30ce1bef34a59477910528ef9626de",
+      "file": "audio/L08.wav",
+      "durationSec": 3.0,
+      "startSec": 33.96,
+      "endSec": 36.96
+    },
+    {
+      "id": "L09",
+      "say": "Nhưng hít không có nghĩa là dữ liệu luôn mới nhất. Nếu dữ liệu gốc đổi, bản trong cách có thể vẫn là bản cũ. Tập sau mình nói về chuyện này.",
+      "cacheKey": "b6712c644a1f9770285ad7e952dd9efe985ee678ad4ff820f3018b61b2e8d165",
+      "file": "audio/L09.wav",
+      "durationSec": 6.63,
+      "startSec": 37.41,
+      "endSec": 44.04
+    },
+    {
+      "id": "L10",
+      "say": "Nhớ nhé: hít là cách đã có, mít là cách chưa có nên phải xuống đây-ta-bây. Cùng một ri-quét, hai đường đi.",
+      "cacheKey": "fb2c05438196f9ab3ea92e1315dd6f0aac4afe8dee27cb84da4e70956f52b43a",
+      "file": "audio/L10.wav",
+      "durationSec": 5.24,
+      "startSec": 44.49,
+      "endSec": 49.73
+    },
+    {
+      "id": "L11",
+      "say": "Tập tới: dữ liệu trong cách sống được bao lâu?",
+      "cacheKey": "acba44e0cac9d683e2355411f2f46c82c7720d18864426273a45bb1cc4c6ebe0",
+      "file": "audio/L11.wav",
+      "durationSec": 2.45,
+      "startSec": 50.18,
+      "endSec": 52.63
+    }
+  ]
+}

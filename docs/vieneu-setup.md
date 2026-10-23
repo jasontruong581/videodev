@@ -91,3 +91,16 @@ Model revision đã tải:
 
 Nguồn đối chiếu: [README upstream](https://github.com/pnnbao97/VieNeu-TTS), [model v3 Turbo](https://huggingface.co/pnnbao-ump/VieNeu-TTS-v3-Turbo), [codec ONNX](https://huggingface.co/OpenMOSS-Team/MOSS-Audio-Tokenizer-Nano-ONNX).
 
+
+## Máy hiện tại: dùng bản đã cài sẵn
+
+Máy làm việc D:/Project không có `tools/VieNeu-TTS`. VieNeu 3.8.3 đã cài trong Python 3.13 toàn máy (`C:\Users\Admin\AppData\Local\Programs\Python\Python313\python.exe`, cùng dùng cho `D:\Project\videobds`), model nằm ở `~/.cache/huggingface` với đúng hai revision ghi ở trên. Không cần clone hay tải lại.
+
+Tạo giọng cho một tập (chạy từ thư mục gốc project):
+
+```powershell
+$env:PYTHONUTF8 = '1'; $env:HF_HUB_OFFLINE = '1'
+& 'C:\Users\Admin\AppData\Local\Programs\Python\Python313\python.exe' pipeline/voice/generate-voice.py episodes/EP002-cache-hit-miss
+```
+
+Script đọc cột `say` trong script.md, ghi `audio/<lineId>.wav`, `audio/narration.wav` và `voice-manifest.json` (hash lời đọc, model, thời lượng, mốc từng dòng). Dòng không đổi lời đọc/giọng thì giữ nguyên, `--force` để tạo lại. `apply_watermark` của SDK giữ mặc định.
