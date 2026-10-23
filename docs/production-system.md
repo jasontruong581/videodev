@@ -1,5 +1,5 @@
 # Pipeline kỹ thuật — thiết kế từ đầu
-Trạng thái: kiến trúc/hợp đồng dữ liệu; chưa có ứng dụng Remotion hoặc publisher chạy được. VieNeu 3.8.3 CPU ONNX đã thử thành công; Hải Đăng đã được chọn. Tối đa 300 giây. Không đợi ba tập mới thiết kế tự động hóa.
+Trạng thái: pipeline local (giọng → ASR → timeline → Remotion → FFmpeg → QC) đã chạy cho EP002, xem [pipeline/README.md](../pipeline/README.md); chưa có publisher. Các schema dưới đây vẫn là hợp đồng đề xuất, hiện được thực thi bằng kiểm tra trong `pipeline/compile` và `pipeline/qa`, chưa có validator riêng. VieNeu 3.8.3 CPU ONNX đã thử thành công; Hải Đăng đã được chọn. Tối đa 300 giây. Không đợi ba tập mới thiết kế tự động hóa.
 
 ## Luồng
 Idea menu → USER SELECT → Research/facts → Script + Director → USER SCRIPT APPROVAL → VieNeu → Timing/captions → Remotion → FFmpeg/QA → USER VIDEO APPROVAL → Publish manifest/PR → Scheduler adapter → Facebook API → Receipt.
@@ -59,8 +59,8 @@ Job có state/log, giữ artifact hợp lệ cuối; subprocess lỗi không mar
 - config/: lựa chọn đã chốt, có trong lần thiết kế này.
 - content/: ý tưởng/backlog.
 - episodes/<id>/: facts/script/storyboard/audio/timing/export/approval.
-- packages/video/: Remotion components, chưa xây.
-- pipeline/: TTS/align/compile/render/QA/publish adapters, chưa xây.
+- packages/video/: Remotion app; hiện có composition CacheHitMiss cho EP002, các scene khác thêm theo tập.
+- pipeline/: voice, align, compile, render, qa đã có; publish adapter chưa xây.
 - assets/: thư viện của kênh, chưa nhập.
 - references/imported/: ZIP nghiên cứu, không runtime.
 - tools/VieNeu-TTS/: engine local đã hoạt động.
