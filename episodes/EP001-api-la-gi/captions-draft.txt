@@ -1,0 +1,22 @@
+[DRAFT — chưa căn thời gian; dấu / đề xuất chia cụm, không đưa nhãn này vào video]
+Bạn nghe API suốt, / nhưng nó thực sự làm gì?
+Hãy tưởng tượng bạn đi ăn. / Bạn chọn món theo thực đơn,
+gửi yêu cầu, / rồi nhận món từ bếp.
+Bạn không cần / tự vào bếp để nấu.
+Phần mềm cũng cần một cách / gửi yêu cầu và nhận kết quả.
+API là giao diện / giúp các phần mềm tương tác
+theo những quy tắc đã định.
+Ví dụ, ứng dụng thời tiết / gửi yêu cầu hỏi nhiệt độ ở Hà Nội.
+Dịch vụ thời tiết / trả về dữ liệu.
+Ứng dụng lấy dữ liệu đó / để hiển thị cho bạn.
+Yêu cầu gửi đi gọi là request. / Kết quả trả về gọi là response.
+Trong ví dụ nhà hàng, / thực đơn giống phần mô tả
+những gì bạn có thể yêu cầu. / Nhưng đây chỉ là ví von để dễ hiểu.
+Không phải yêu cầu nào / cũng thành công.
+Gửi thiếu thông tin, / chưa được cấp quyền,
+hoặc dịch vụ gặp sự cố, / bạn có thể nhận thông báo lỗi.
+Khi một ứng dụng gọi mô hình AI / qua API,
+nó cũng gửi đầu vào / và nhận đầu ra
+theo giao diện của dịch vụ đó.
+Nhớ thế này: / API giúp phần mềm nói chuyện theo quy tắc.
+Tập sau, mình giải thích / vì sao có lúc bạn cần một API key.

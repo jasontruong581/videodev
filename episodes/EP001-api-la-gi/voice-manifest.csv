@@ -1,0 +1,9 @@
+scene_id,text_version,planned_audio_file,voice_id,measured_duration_seconds,status
+S01,v001,audio/S01-v001.wav,,,pending_generation
+S02,v001,audio/S02-v001.wav,,,pending_generation
+S03,v001,audio/S03-v001.wav,,,pending_generation
+S04,v001,audio/S04-v001.wav,,,pending_generation
+S05,v001,audio/S05-v001.wav,,,pending_generation
+S06,v001,audio/S06-v001.wav,,,pending_generation
+S07,v001,audio/S07-v001.wav,,,pending_generation
+S08,v001,audio/S08-v001.wav,,,pending_generation
