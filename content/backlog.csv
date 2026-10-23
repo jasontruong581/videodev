@@ -1,7 +1,7 @@
 id,pillar,title,hook,visual,level,status
 IDEA001,memory,Redis là gì ngoài việc làm cache?,"Một công cụ, nhiều cách dùng: chọn một ví dụ chính","App → Redis → database, phân biệt vai trò",cơ bản,idea
 IDEA002,memory,"CPU cache, RAM và ổ đĩa khác nhau thế nào?",Dữ liệu đi qua những tầng nào khi code chạy?,Memory hierarchy và mũi tên đọc dữ liệu,cơ bản,idea
-IDEA003,memory,Cache hit và cache miss là gì?,"Cùng một request, vì sao có hai đường đi?",Hai lượt request với hit/miss,cơ bản,selected
+IDEA003,memory,Cache hit và cache miss là gì?,"Cùng một request, vì sao có hai đường đi?",Hai lượt request với hit/miss,cơ bản,video_approved
 IDEA004,memory,TTL hết hạn thì chuyện gì xảy ra?,Cache không tự biết dữ liệu gốc đã đổi,Timeline giá trị mới/cũ và expiry,cơ bản,idea
 IDEA005,memory,Cache invalidation khó ở đâu?,DB đã đổi nhưng màn hình vẫn thấy giá cũ,Hai đường write/read trên timeline,trung cấp,idea
 IDEA006,memory,Cache stampede là gì?,"Một key hết hạn, nhiều request cùng chạy xuống DB",Dòng request hội tụ và single-flight,trung cấp,idea
@@ -35,4 +35,34 @@ IDEA033,ai,KV cache trong inference là gì?,"Khi sinh token tiếp theo, phần
 IDEA034,tools,Mổ xẻ một devtool mới qua một tác vụ,Nó giải quyết vấn đề nào trong workflow thật?,Demo input/output và phần cơ chế,tùy công cụ,idea
 IDEA035,tools,Một tính năng AI mới thay đổi bước nào của dev?,Tin mới này giúp việc gì và có giới hạn gì?,"Cùng bài thử trước/sau, ghi phiên bản",tùy công cụ,idea
 IDEA036,tools,Đọc một benchmark công cụ cho đúng,Con số nhanh hơn được đo trong điều kiện nào?,"Bài đo, dataset, môi trường, kết quả",trung cấp,idea
+IDEA037,memory,LRU eviction: cache đầy thì bỏ mục nào?,"Bộ nhớ có hạn, thứ gì bị đẩy ra trước?","Hàng ô cache, mục lâu không dùng bị loại",cơ bản,idea
+IDEA038,memory,"Cache-aside, write-through, write-back khác nhau ở đâu?",Ghi dữ liệu mới thì cache và database cập nhật theo thứ tự nào?,Ba đường ghi cạnh nhau trên cùng sơ đồ,trung cấp,idea
+IDEA039,memory,Memory leak là gì?,"Chương trình không crash nhưng bộ nhớ cứ tăng, vì sao?",Đồ thị bộ nhớ tăng và đối tượng còn được tham chiếu,cơ bản,idea
+IDEA040,data,SQL JOIN: INNER và LEFT khác nhau thế nào?,"Hai bảng ghép lại, dòng nào mất, dòng nào còn?",Hai bảng nhỏ và kết quả ghép từng loại JOIN,cơ bản,idea
+IDEA041,data,Isolation level giải quyết lỗi đọc nào?,Hai transaction chạy cùng lúc có thể thấy dữ liệu dở dang không?,Timeline hai transaction và các mức isolation,trung cấp,idea
+IDEA042,data,Deadlock trong database xảy ra thế nào?,"Hai transaction chờ nhau mãi, ai nhả khóa trước?",Hai transaction giữ khóa chéo và vòng chờ,trung cấp,idea
+IDEA043,data,Replication và replication lag,"Vừa ghi xong mà đọc lại thấy dữ liệu cũ, vì sao?","Primary ghi, replica nhận chậm, request đọc rơi vào replica",trung cấp,idea
+IDEA044,data,Sharding và partitioning khác nhau thế nào?,Một bảng quá lớn thì chia ra sao và request tìm đúng phần nào?,Khóa chia dữ liệu vào các shard,trung cấp,idea
+IDEA045,data,Optimistic và pessimistic locking,Khóa trước hay kiểm tra phiên bản sau khi sửa?,Hai người sửa cùng bản ghi với version,trung cấp,idea
+IDEA046,backend,Load balancer chia request thế nào?,"Nhiều server giống nhau, request đi vào server nào?",Request chia theo round robin và theo tải,cơ bản,idea
+IDEA047,backend,"REST, GraphQL và gRPC khác nhau ở đâu?","Cùng lấy một dữ liệu, ba kiểu gọi khác nhau thế nào?",Ba cách gọi cùng một tác vụ cạnh nhau,trung cấp,idea
+IDEA048,backend,Circuit breaker bảo vệ hệ thống thế nào?,"Dịch vụ phía sau chết, vì sao cứ gọi tiếp lại làm tệ hơn?",Ba trạng thái closed/open/half-open,trung cấp,idea
+IDEA049,backend,Pub/Sub khác queue ở đâu?,"Một sự kiện, nhiều nơi cần biết, ai nhận được gì?",Một message đến một worker và đến nhiều subscriber,cơ bản,idea
+IDEA050,backend,Reverse proxy và API gateway làm gì?,"Client chỉ thấy một địa chỉ, phía sau là gì?",Client → proxy/gateway → các dịch vụ,cơ bản,idea
+IDEA051,network,"HTTP/1.1, HTTP/2 và HTTP/3 khác nhau thế nào?","Cùng tải một trang, ba phiên bản gửi request ra sao?",Các request chạy trên một hoặc nhiều kết nối,trung cấp,idea
+IDEA052,network,CDN hoạt động thế nào?,Người dùng ở xa server thì file đến từ đâu?,Bản đồ server gốc và các điểm cache gần người dùng,cơ bản,idea
+IDEA053,network,CORS là gì và vì sao trình duyệt chặn?,"API chạy tốt trong Postman nhưng lỗi trên trình duyệt, vì sao?","Trình duyệt, origin và header cho phép",cơ bản,idea
+IDEA054,security,SQL injection xảy ra thế nào?,Một ô nhập liệu có thể đổi nghĩa câu truy vấn không?,Câu query ghép chuỗi và câu query có tham số,cơ bản,idea
+IDEA055,security,XSS và CSRF khác nhau thế nào?,"Một bên chèn mã vào trang, một bên mượn phiên đăng nhập?",Hai luồng tấn công với ranh giới của trình duyệt,trung cấp,idea
+IDEA056,security,"Hash, mã hóa và cách lưu mật khẩu",Lưu mật khẩu đã mã hóa có đủ an toàn không?,"Mật khẩu → salt → hash chậm, không có đường ngược",cơ bản,idea
+IDEA057,security,API key và access token khác nhau thế nào?,Một chuỗi bí mật trong request có vai trò gì?,Hai cách xác thực với phạm vi và thời hạn,cơ bản,idea
+IDEA058,runtime,Garbage collection làm gì?,Ai dọn bộ nhớ khi mình không gọi free?,Đối tượng còn được tham chiếu và không còn,cơ bản,idea
+IDEA059,runtime,Stack và heap khác nhau thế nào?,Biến nằm ở đâu khi hàm chạy?,Call stack và vùng heap cho đối tượng,cơ bản,idea
+IDEA060,tools,Git merge và rebase khác nhau thế nào?,Cùng gộp nhánh nhưng lịch sử khác nhau ra sao?,Hai đồ thị commit trước và sau,trung cấp,idea
+IDEA061,tools,CI/CD pipeline chạy những bước nào?,"Push code xong, điều gì tự động chạy tiếp?",Commit → build → test → deploy,cơ bản,idea
+IDEA062,ai,Context window là gì?,Vì sao mô hình quên đoạn đầu của cuộc trò chuyện dài?,Cửa sổ token trượt qua đoạn hội thoại,cơ bản,idea
+IDEA063,ai,Prompt caching là gì?,"Gửi lại cùng một đoạn prompt dài, phần nào được dùng lại? (kiểm tài liệu nhà cung cấp sát ngày viết)","Prefix giống nhau là hit, đổi một chỗ là miss",trung cấp,idea
+IDEA064,ai,Vector database khác database thường ở đâu?,Tìm theo nghĩa khác tìm theo giá trị chính xác thế nào?,Truy vấn khớp chính xác và tìm láng giềng gần,trung cấp,idea
+IDEA065,ai,AI agent thực chất là vòng lặp nào?,"Mô hình nghĩ, gọi công cụ, rồi sao nữa?",Vòng lặp model → tool → kết quả → model,trung cấp,idea
+IDEA066,ai,MCP là gì và giải quyết việc gì?,"Nhiều công cụ, nhiều ứng dụng AI, vì sao cần một giao thức chung? (kiểm đặc tả sát ngày viết)",Ứng dụng AI ↔ MCP server ↔ công cụ,trung cấp,idea
 EP001,reference,API là gì?,Bản nháp tham khảo từ định hướng trước,Không phải tập đã được chọn,cơ bản,scripted_reference

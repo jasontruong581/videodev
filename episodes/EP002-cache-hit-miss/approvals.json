@@ -8,11 +8,32 @@
       "timestamp": "2026-10-23T22:25:00+07:00",
       "revision": "r1",
       "inputHash": "sha256:0d36a0cf8d0db98168f6c6af8d57306c0519f38e6c503711726f460dae8ccbe2",
-      "inputFiles": ["facts.md"],
+      "inputFiles": [
+        "facts.md"
+      ],
       "artifactHash": "sha256:58e307ce25d31cfe50916a8af6a59e5ebd1b185d78a068bc3662bea22f7f08df",
-      "artifactFiles": ["script.md", "director-script.md"],
+      "artifactFiles": [
+        "script.md",
+        "director-script.md"
+      ],
       "verdict": "approved",
       "note": "Duyệt r1 trong phiên làm việc; kèm quyết định đọc \"cache\" là \"cách\". artifactHash là sha256 của script.md nối director-script.md."
+    },
+    {
+      "gate": "video",
+      "reviewer": "chủ kênh",
+      "timestamp": "2026-10-24T00:04:48+07:00",
+      "revision": "r1",
+      "inputHash": "sha256:51786021510cf7ac4ac566b601319299a9e3fb572a0996f428b283057a062283",
+      "inputFiles": [
+        "timeline.json"
+      ],
+      "artifactHash": "sha256:3668b733b346b377a9225981e72dc87263bafedb5cd53b298d99806257c03cea",
+      "artifactFiles": [
+        "renders/EP002/final.mp4"
+      ],
+      "verdict": "approved",
+      "note": "Duyệt bản xuất 53,8 giây trong phiên làm việc. Nhận xét: giải thích và motion ổn, giọng tiếng Việt ổn, từ tiếng Anh (cache, database) nghe chói; theme hơi tối, chủ kênh sẽ đề xuất theme cho video sau. Không yêu cầu sửa video này. final.mp4 không nằm trong Git."
     }
   ]
 }

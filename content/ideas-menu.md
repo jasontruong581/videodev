@@ -45,3 +45,39 @@ Gợi ý mở màn: IDEA003 cache hit/miss dễ làm một video ngắn rõ cơ 
 
 IDEA034–036 chỉ sản xuất sau khi chọn công cụ/tính năng/benchmark và kiểm nguồn chính thức sát ngày viết; không dùng tin hoặc số đo giả định.
 
+## Đợt 2: 30 ý tưởng bổ sung (IDEA037–IDEA066)
+
+Đề xuất ngày 24/10/2026, chưa chọn thứ tự ưu tiên. Mỗi dòng vẫn chỉ là góc khai thác, chưa fact-check. IDEA062–066 liên quan tính năng/giao thức AI nên phải kiểm tài liệu chính thức sát ngày viết trước khi làm.
+
+| ID | Chủ đề | Câu hỏi/hook | Show bằng gì | Mức |
+|---|---|---|---|---|
+| IDEA037 | LRU eviction: cache đầy thì bỏ mục nào? | Bộ nhớ có hạn, thứ gì bị đẩy ra trước? | Hàng ô cache, mục lâu không dùng bị loại | cơ bản |
+| IDEA038 | Cache-aside, write-through, write-back khác nhau ở đâu? | Ghi dữ liệu mới thì cache và database cập nhật theo thứ tự nào? | Ba đường ghi cạnh nhau trên cùng sơ đồ | trung cấp |
+| IDEA039 | Memory leak là gì? | Chương trình không crash nhưng bộ nhớ cứ tăng, vì sao? | Đồ thị bộ nhớ tăng và đối tượng còn được tham chiếu | cơ bản |
+| IDEA040 | SQL JOIN: INNER và LEFT khác nhau thế nào? | Hai bảng ghép lại, dòng nào mất, dòng nào còn? | Hai bảng nhỏ và kết quả ghép từng loại JOIN | cơ bản |
+| IDEA041 | Isolation level giải quyết lỗi đọc nào? | Hai transaction chạy cùng lúc có thể thấy dữ liệu dở dang không? | Timeline hai transaction và các mức isolation | trung cấp |
+| IDEA042 | Deadlock trong database xảy ra thế nào? | Hai transaction chờ nhau mãi, ai nhả khóa trước? | Hai transaction giữ khóa chéo và vòng chờ | trung cấp |
+| IDEA043 | Replication và replication lag | Vừa ghi xong mà đọc lại thấy dữ liệu cũ, vì sao? | Primary ghi, replica nhận chậm, request đọc rơi vào replica | trung cấp |
+| IDEA044 | Sharding và partitioning khác nhau thế nào? | Một bảng quá lớn thì chia ra sao và request tìm đúng phần nào? | Khóa chia dữ liệu vào các shard | trung cấp |
+| IDEA045 | Optimistic và pessimistic locking | Khóa trước hay kiểm tra phiên bản sau khi sửa? | Hai người sửa cùng bản ghi với version | trung cấp |
+| IDEA046 | Load balancer chia request thế nào? | Nhiều server giống nhau, request đi vào server nào? | Request chia theo round robin và theo tải | cơ bản |
+| IDEA047 | REST, GraphQL và gRPC khác nhau ở đâu? | Cùng lấy một dữ liệu, ba kiểu gọi khác nhau thế nào? | Ba cách gọi cùng một tác vụ cạnh nhau | trung cấp |
+| IDEA048 | Circuit breaker bảo vệ hệ thống thế nào? | Dịch vụ phía sau chết, vì sao cứ gọi tiếp lại làm tệ hơn? | Ba trạng thái closed/open/half-open | trung cấp |
+| IDEA049 | Pub/Sub khác queue ở đâu? | Một sự kiện, nhiều nơi cần biết, ai nhận được gì? | Một message đến một worker và đến nhiều subscriber | cơ bản |
+| IDEA050 | Reverse proxy và API gateway làm gì? | Client chỉ thấy một địa chỉ, phía sau là gì? | Client → proxy/gateway → các dịch vụ | cơ bản |
+| IDEA051 | HTTP/1.1, HTTP/2 và HTTP/3 khác nhau thế nào? | Cùng tải một trang, ba phiên bản gửi request ra sao? | Các request chạy trên một hoặc nhiều kết nối | trung cấp |
+| IDEA052 | CDN hoạt động thế nào? | Người dùng ở xa server thì file đến từ đâu? | Bản đồ server gốc và các điểm cache gần người dùng | cơ bản |
+| IDEA053 | CORS là gì và vì sao trình duyệt chặn? | API chạy tốt trong Postman nhưng lỗi trên trình duyệt, vì sao? | Trình duyệt, origin và header cho phép | cơ bản |
+| IDEA054 | SQL injection xảy ra thế nào? | Một ô nhập liệu có thể đổi nghĩa câu truy vấn không? | Câu query ghép chuỗi và câu query có tham số | cơ bản |
+| IDEA055 | XSS và CSRF khác nhau thế nào? | Một bên chèn mã vào trang, một bên mượn phiên đăng nhập? | Hai luồng tấn công với ranh giới của trình duyệt | trung cấp |
+| IDEA056 | Hash, mã hóa và cách lưu mật khẩu | Lưu mật khẩu đã mã hóa có đủ an toàn không? | Mật khẩu → salt → hash chậm, không có đường ngược | cơ bản |
+| IDEA057 | API key và access token khác nhau thế nào? | Một chuỗi bí mật trong request có vai trò gì? | Hai cách xác thực với phạm vi và thời hạn | cơ bản |
+| IDEA058 | Garbage collection làm gì? | Ai dọn bộ nhớ khi mình không gọi free? | Đối tượng còn được tham chiếu và không còn | cơ bản |
+| IDEA059 | Stack và heap khác nhau thế nào? | Biến nằm ở đâu khi hàm chạy? | Call stack và vùng heap cho đối tượng | cơ bản |
+| IDEA060 | Git merge và rebase khác nhau thế nào? | Cùng gộp nhánh nhưng lịch sử khác nhau ra sao? | Hai đồ thị commit trước và sau | trung cấp |
+| IDEA061 | CI/CD pipeline chạy những bước nào? | Push code xong, điều gì tự động chạy tiếp? | Commit → build → test → deploy | cơ bản |
+| IDEA062 | Context window là gì? | Vì sao mô hình quên đoạn đầu của cuộc trò chuyện dài? | Cửa sổ token trượt qua đoạn hội thoại | cơ bản |
+| IDEA063 | Prompt caching là gì? | Gửi lại cùng một đoạn prompt dài, phần nào được dùng lại? (kiểm tài liệu nhà cung cấp sát ngày viết) | Prefix giống nhau là hit, đổi một chỗ là miss | trung cấp |
+| IDEA064 | Vector database khác database thường ở đâu? | Tìm theo nghĩa khác tìm theo giá trị chính xác thế nào? | Truy vấn khớp chính xác và tìm láng giềng gần | trung cấp |
+| IDEA065 | AI agent thực chất là vòng lặp nào? | Mô hình nghĩ, gọi công cụ, rồi sao nữa? | Vòng lặp model → tool → kết quả → model | trung cấp |
+| IDEA066 | MCP là gì và giải quyết việc gì? | Nhiều công cụ, nhiều ứng dụng AI, vì sao cần một giao thức chung? (kiểm đặc tả sát ngày viết) | Ứng dụng AI ↔ MCP server ↔ công cụ | trung cấp |

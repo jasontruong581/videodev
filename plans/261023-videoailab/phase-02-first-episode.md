@@ -1,5 +1,5 @@
 # Phase 2 — Một tập được chủ kênh chọn
-Status: in_progress. Chủ kênh đã chọn IDEA003, episode EP002-cache-hit-miss. Bước 1–5 đã làm (script duyệt 23/10/2026, bản xuất nháp đã QC máy); chờ chủ kênh nghe/xem để duyệt ở bước 6.
+Status: in_progress (chờ bước publish). Chủ kênh đã chọn IDEA003, episode EP002-cache-hit-miss. Bước 1–5 đã làm (script duyệt 23/10/2026, bản xuất nháp đã QC máy); chủ kênh đã duyệt video r1 (24/10/2026); còn bước 7 publish manifest, chờ publisher.
 
 1. IDEA003 đã được chọn, EP002 đã có brief; giữ EP001 cũ là reference.
 2. Nghiên cứu primary sources, tạo facts và creator learning notes.

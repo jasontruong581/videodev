@@ -13,7 +13,7 @@ Bộ thiết kế đã cập nhật; implementation pending. Không áp kế ho�
 | Phase | Kết quả | Trạng thái |
 |---|---|---|
 | [1. Nền tảng và port template](phase-01-concept.md) | Remotion scene library, schema, local adapters | in_progress: đã có CacheHitMiss, voice/align/compile/render/mix/QC; chưa có scene library chung và validator riêng |
-| [2. Một tập được chọn](phase-02-first-episode.md) | Script duyệt → WAV/timing → final duyệt | in_progress: script đã duyệt, bản nháp chờ duyệt video |
+| [2. Một tập được chọn](phase-02-first-episode.md) | Script duyệt → WAV/timing → final duyệt | in_progress: script và video r1 đã duyệt, chờ bước publish |
 | [3. Publish PR/API](phase-03-pilot.md) | Scheduler, receipt, chống đăng trùng | pending_reference |
 
 ## Đã hoàn thành trong bước thiết kế
