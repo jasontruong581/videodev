@@ -1,0 +1,2016 @@
+{
+  "schemaVersion": 1,
+  "asrModel": "faster-whisper:medium",
+  "words": [
+    {
+      "lineId": "L01",
+      "index": 0,
+      "displayToken": "Cùng",
+      "key": "cùng",
+      "start": 0.08,
+      "end": 0.24,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L01",
+      "index": 1,
+      "displayToken": "một",
+      "key": "một",
+      "start": 0.24,
+      "end": 0.4,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L01",
+      "index": 2,
+      "displayToken": "request,",
+      "key": "request",
+      "start": 0.4,
+      "end": 0.92,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L01",
+      "index": 3,
+      "displayToken": "vì",
+      "key": "vì",
+      "start": 1.1,
+      "end": 1.2,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L01",
+      "index": 4,
+      "displayToken": "sao",
+      "key": "sao",
+      "start": 1.2,
+      "end": 1.32,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L01",
+      "index": 5,
+      "displayToken": "lúc",
+      "key": "lúc",
+      "start": 1.32,
+      "end": 1.48,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L01",
+      "index": 6,
+      "displayToken": "thì",
+      "key": "thì",
+      "start": 1.48,
+      "end": 1.64,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L01",
+      "index": 7,
+      "displayToken": "lấy",
+      "key": "lấy",
+      "start": 1.64,
+      "end": 1.76,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L01",
+      "index": 8,
+      "displayToken": "từ",
+      "key": "từ",
+      "start": 1.76,
+      "end": 1.92,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L01",
+      "index": 9,
+      "displayToken": "cache,",
+      "key": "cache",
+      "start": 1.92,
+      "end": 2.16,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L01",
+      "index": 10,
+      "displayToken": "lúc",
+      "key": "lúc",
+      "start": 2.56,
+      "end": 2.7,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L01",
+      "index": 11,
+      "displayToken": "lại",
+      "key": "lại",
+      "start": 2.7,
+      "end": 2.82,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L01",
+      "index": 12,
+      "displayToken": "phải",
+      "key": "phải",
+      "start": 2.82,
+      "end": 3,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L01",
+      "index": 13,
+      "displayToken": "xuống",
+      "key": "xuống",
+      "start": 3,
+      "end": 3.18,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L01",
+      "index": 14,
+      "displayToken": "database?",
+      "key": "database",
+      "start": 3.18,
+      "end": 3.64,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L02",
+      "index": 0,
+      "displayToken": "Giả",
+      "key": "giả",
+      "start": 4.19,
+      "end": 4.49,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L02",
+      "index": 1,
+      "displayToken": "sử",
+      "key": "sử",
+      "start": 4.49,
+      "end": 4.65,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L02",
+      "index": 2,
+      "displayToken": "app",
+      "key": "app",
+      "start": 4.65,
+      "end": 4.87,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L02",
+      "index": 3,
+      "displayToken": "cần",
+      "key": "cần",
+      "start": 4.87,
+      "end": 5.07,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L02",
+      "index": 4,
+      "displayToken": "hiển",
+      "key": "hiển",
+      "start": 5.07,
+      "end": 5.33,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L02",
+      "index": 5,
+      "displayToken": "thị",
+      "key": "thị",
+      "start": 5.33,
+      "end": 5.45,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L02",
+      "index": 6,
+      "displayToken": "một",
+      "key": "một",
+      "start": 5.45,
+      "end": 5.65,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L02",
+      "index": 7,
+      "displayToken": "sản",
+      "key": "sản",
+      "start": 5.65,
+      "end": 5.79,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L02",
+      "index": 8,
+      "displayToken": "phẩm.",
+      "key": "phẩm",
+      "start": 5.79,
+      "end": 6.19,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L02",
+      "index": 9,
+      "displayToken": "Phía",
+      "key": "phía",
+      "start": 6.23,
+      "end": 6.41,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L02",
+      "index": 10,
+      "displayToken": "sau",
+      "key": "sau",
+      "start": 6.41,
+      "end": 6.55,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L02",
+      "index": 11,
+      "displayToken": "app",
+      "key": "app",
+      "start": 6.55,
+      "end": 6.75,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L02",
+      "index": 12,
+      "displayToken": "có",
+      "key": "có",
+      "start": 6.75,
+      "end": 6.91,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L02",
+      "index": 13,
+      "displayToken": "hai",
+      "key": "hai",
+      "start": 6.91,
+      "end": 7.15,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L02",
+      "index": 14,
+      "displayToken": "chỗ",
+      "key": "chỗ",
+      "start": 7.15,
+      "end": 7.39,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L02",
+      "index": 15,
+      "displayToken": "để",
+      "key": "để",
+      "start": 7.39,
+      "end": 7.55,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L02",
+      "index": 16,
+      "displayToken": "lấy",
+      "key": "lấy",
+      "start": 7.55,
+      "end": 7.69,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L02",
+      "index": 17,
+      "displayToken": "dữ",
+      "key": "dữ",
+      "start": 7.69,
+      "end": 7.87,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L02",
+      "index": 18,
+      "displayToken": "liệu:",
+      "key": "liệu",
+      "start": 7.87,
+      "end": 8.37,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L02",
+      "index": 19,
+      "displayToken": "cache",
+      "key": "cache",
+      "start": 8.55,
+      "end": 8.67,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L02",
+      "index": 20,
+      "displayToken": "và",
+      "key": "và",
+      "start": 8.67,
+      "end": 8.83,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L02",
+      "index": 21,
+      "displayToken": "database.",
+      "key": "database",
+      "start": 8.83,
+      "end": 9.19,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L03",
+      "index": 0,
+      "displayToken": "Database",
+      "key": "database",
+      "start": 9.71,
+      "end": 10.23,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L03",
+      "index": 1,
+      "displayToken": "giữ",
+      "key": "giữ",
+      "start": 10.23,
+      "end": 10.41,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L03",
+      "index": 2,
+      "displayToken": "dữ",
+      "key": "dữ",
+      "start": 10.41,
+      "end": 10.51,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L03",
+      "index": 3,
+      "displayToken": "liệu",
+      "key": "liệu",
+      "start": 10.51,
+      "end": 10.69,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L03",
+      "index": 4,
+      "displayToken": "gốc.",
+      "key": "gốc",
+      "start": 10.69,
+      "end": 11.11,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L03",
+      "index": 5,
+      "displayToken": "Cache",
+      "key": "cache",
+      "start": 11.25,
+      "end": 11.37,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L03",
+      "index": 6,
+      "displayToken": "là",
+      "key": "là",
+      "start": 11.37,
+      "end": 11.57,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L03",
+      "index": 7,
+      "displayToken": "bộ",
+      "key": "bộ",
+      "start": 11.57,
+      "end": 11.77,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L03",
+      "index": 8,
+      "displayToken": "nhớ",
+      "key": "nhớ",
+      "start": 11.77,
+      "end": 11.95,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L03",
+      "index": 9,
+      "displayToken": "đệm,",
+      "key": "đệm",
+      "start": 11.95,
+      "end": 12.37,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L03",
+      "index": 10,
+      "displayToken": "truy",
+      "key": "truy",
+      "start": 12.43,
+      "end": 12.55,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L03",
+      "index": 11,
+      "displayToken": "cập",
+      "key": "cập",
+      "start": 12.55,
+      "end": 12.71,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L03",
+      "index": 12,
+      "displayToken": "nhanh",
+      "key": "nhanh",
+      "start": 12.71,
+      "end": 13.01,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L03",
+      "index": 13,
+      "displayToken": "hơn.",
+      "key": "hơn",
+      "start": 13.01,
+      "end": 13.11,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L04",
+      "index": 0,
+      "displayToken": "Request",
+      "key": "request",
+      "start": 13.64,
+      "end": 14.1,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L04",
+      "index": 1,
+      "displayToken": "đầu",
+      "key": "đầu",
+      "start": 14.1,
+      "end": 14.3,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L04",
+      "index": 2,
+      "displayToken": "tiên",
+      "key": "tiên",
+      "start": 14.3,
+      "end": 14.56,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L04",
+      "index": 3,
+      "displayToken": "đến.",
+      "key": "đến",
+      "start": 14.56,
+      "end": 14.92,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L04",
+      "index": 4,
+      "displayToken": "App",
+      "key": "app",
+      "start": 15.06,
+      "end": 15.28,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L04",
+      "index": 5,
+      "displayToken": "hỏi",
+      "key": "hỏi",
+      "start": 15.28,
+      "end": 15.48,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L04",
+      "index": 6,
+      "displayToken": "cache",
+      "key": "cache",
+      "start": 15.48,
+      "end": 15.66,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L04",
+      "index": 7,
+      "displayToken": "trước,",
+      "key": "trước",
+      "start": 15.66,
+      "end": 16.08,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L04",
+      "index": 8,
+      "displayToken": "nhưng",
+      "key": "nhưng",
+      "start": 16.28,
+      "end": 16.38,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L04",
+      "index": 9,
+      "displayToken": "cache",
+      "key": "cache",
+      "start": 16.38,
+      "end": 16.56,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L04",
+      "index": 10,
+      "displayToken": "chưa",
+      "key": "chưa",
+      "start": 16.56,
+      "end": 16.7,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L04",
+      "index": 11,
+      "displayToken": "có",
+      "key": "có",
+      "start": 16.7,
+      "end": 16.84,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L04",
+      "index": 12,
+      "displayToken": "sản",
+      "key": "sản",
+      "start": 16.84,
+      "end": 16.96,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L04",
+      "index": 13,
+      "displayToken": "phẩm",
+      "key": "phẩm",
+      "start": 16.96,
+      "end": 17.14,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L04",
+      "index": 14,
+      "displayToken": "này.",
+      "key": "này",
+      "start": 17.14,
+      "end": 17.4,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L04",
+      "index": 15,
+      "displayToken": "Đó",
+      "key": "đó",
+      "start": 17.7,
+      "end": 17.9,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L04",
+      "index": 16,
+      "displayToken": "là",
+      "key": "là",
+      "start": 17.9,
+      "end": 18.04,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L04",
+      "index": 17,
+      "displayToken": "cache",
+      "key": "cache",
+      "start": 18.04,
+      "end": 18.24,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L04",
+      "index": 18,
+      "displayToken": "miss.",
+      "key": "miss",
+      "start": 18.24,
+      "end": 18.4,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L05",
+      "index": 0,
+      "displayToken": "App",
+      "key": "app",
+      "start": 18.88,
+      "end": 19.1,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L05",
+      "index": 1,
+      "displayToken": "xuống",
+      "key": "xuống",
+      "start": 19.1,
+      "end": 19.28,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L05",
+      "index": 2,
+      "displayToken": "database",
+      "key": "database",
+      "start": 19.28,
+      "end": 19.82,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L05",
+      "index": 3,
+      "displayToken": "lấy",
+      "key": "lấy",
+      "start": 19.82,
+      "end": 19.98,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L05",
+      "index": 4,
+      "displayToken": "dữ",
+      "key": "dữ",
+      "start": 19.98,
+      "end": 20.16,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L05",
+      "index": 5,
+      "displayToken": "liệu,",
+      "key": "liệu",
+      "start": 20.16,
+      "end": 20.58,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L05",
+      "index": 6,
+      "displayToken": "ghi",
+      "key": "ghi",
+      "start": 20.86,
+      "end": 20.98,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L05",
+      "index": 7,
+      "displayToken": "một",
+      "key": "một",
+      "start": 20.98,
+      "end": 21.22,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L05",
+      "index": 8,
+      "displayToken": "bản",
+      "key": "bản",
+      "start": 21.22,
+      "end": 21.4,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L05",
+      "index": 9,
+      "displayToken": "vào",
+      "key": "vào",
+      "start": 21.4,
+      "end": 21.6,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L05",
+      "index": 10,
+      "displayToken": "cache,",
+      "key": "cache",
+      "start": 21.6,
+      "end": 21.8,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L05",
+      "index": 11,
+      "displayToken": "rồi",
+      "key": "rồi",
+      "start": 22.14,
+      "end": 22.28,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L05",
+      "index": 12,
+      "displayToken": "mới",
+      "key": "mới",
+      "start": 22.28,
+      "end": 22.46,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L05",
+      "index": 13,
+      "displayToken": "trả",
+      "key": "trả",
+      "start": 22.46,
+      "end": 22.62,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L05",
+      "index": 14,
+      "displayToken": "kết",
+      "key": "kết",
+      "start": 22.62,
+      "end": 22.76,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L05",
+      "index": 15,
+      "displayToken": "quả.",
+      "key": "quả",
+      "start": 22.76,
+      "end": 22.92,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L06",
+      "index": 0,
+      "displayToken": "Cache",
+      "key": "cache",
+      "start": 23.4,
+      "end": 23.6,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L06",
+      "index": 1,
+      "displayToken": "miss",
+      "key": "miss",
+      "start": 23.6,
+      "end": 23.86,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L06",
+      "index": 2,
+      "displayToken": "không",
+      "key": "không",
+      "start": 23.86,
+      "end": 24.16,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L06",
+      "index": 3,
+      "displayToken": "phải",
+      "key": "phải",
+      "start": 24.16,
+      "end": 24.32,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L06",
+      "index": 4,
+      "displayToken": "lỗi.",
+      "key": "lỗi",
+      "start": 24.32,
+      "end": 24.76,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L06",
+      "index": 5,
+      "displayToken": "Nó",
+      "key": "nó",
+      "start": 24.88,
+      "end": 25.06,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L06",
+      "index": 6,
+      "displayToken": "chỉ",
+      "key": "chỉ",
+      "start": 25.06,
+      "end": 25.28,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L06",
+      "index": 7,
+      "displayToken": "cho",
+      "key": "cho",
+      "start": 25.28,
+      "end": 25.42,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L06",
+      "index": 8,
+      "displayToken": "biết",
+      "key": "biết",
+      "start": 25.42,
+      "end": 25.84,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L06",
+      "index": 9,
+      "displayToken": "lần",
+      "key": "lần",
+      "start": 25.84,
+      "end": 26.18,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L06",
+      "index": 10,
+      "displayToken": "này",
+      "key": "này",
+      "start": 26.18,
+      "end": 26.4,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L06",
+      "index": 11,
+      "displayToken": "cache",
+      "key": "cache",
+      "start": 26.4,
+      "end": 26.56,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L06",
+      "index": 12,
+      "displayToken": "chưa",
+      "key": "chưa",
+      "start": 26.56,
+      "end": 26.9,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L06",
+      "index": 13,
+      "displayToken": "có",
+      "key": "có",
+      "start": 26.9,
+      "end": 27.06,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L06",
+      "index": 14,
+      "displayToken": "thứ",
+      "key": "thứ",
+      "start": 27.06,
+      "end": 27.2,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L06",
+      "index": 15,
+      "displayToken": "cần",
+      "key": "cần",
+      "start": 27.2,
+      "end": 27.36,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L06",
+      "index": 16,
+      "displayToken": "tìm.",
+      "key": "tìm",
+      "start": 27.36,
+      "end": 27.6,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L07",
+      "index": 0,
+      "displayToken": "Request",
+      "key": "request",
+      "start": 28.07,
+      "end": 28.49,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L07",
+      "index": 1,
+      "displayToken": "thứ",
+      "key": "thứ",
+      "start": 28.49,
+      "end": 28.65,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L07",
+      "index": 2,
+      "displayToken": "hai",
+      "key": "hai",
+      "start": 28.65,
+      "end": 28.87,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L07",
+      "index": 3,
+      "displayToken": "hỏi",
+      "key": "hỏi",
+      "start": 28.87,
+      "end": 29.13,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L07",
+      "index": 4,
+      "displayToken": "cùng",
+      "key": "cùng",
+      "start": 29.13,
+      "end": 29.33,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L07",
+      "index": 5,
+      "displayToken": "sản",
+      "key": "sản",
+      "start": 29.33,
+      "end": 29.51,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L07",
+      "index": 6,
+      "displayToken": "phẩm.",
+      "key": "phẩm",
+      "start": 29.51,
+      "end": 29.95,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L07",
+      "index": 7,
+      "displayToken": "App",
+      "key": "app",
+      "start": 30.05,
+      "end": 30.19,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L07",
+      "index": 8,
+      "displayToken": "vẫn",
+      "key": "vẫn",
+      "start": 30.19,
+      "end": 30.35,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L07",
+      "index": 9,
+      "displayToken": "hỏi",
+      "key": "hỏi",
+      "start": 30.35,
+      "end": 30.57,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L07",
+      "index": 10,
+      "displayToken": "cache",
+      "key": "cache",
+      "start": 30.57,
+      "end": 30.71,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L07",
+      "index": 11,
+      "displayToken": "trước,",
+      "key": "trước",
+      "start": 30.71,
+      "end": 31.05,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L07",
+      "index": 12,
+      "displayToken": "và",
+      "key": "và",
+      "start": 31.43,
+      "end": 31.55,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L07",
+      "index": 13,
+      "displayToken": "lần",
+      "key": "lần",
+      "start": 31.55,
+      "end": 31.67,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L07",
+      "index": 14,
+      "displayToken": "này",
+      "key": "này",
+      "start": 31.67,
+      "end": 31.85,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L07",
+      "index": 15,
+      "displayToken": "cache",
+      "key": "cache",
+      "start": 31.85,
+      "end": 31.99,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L07",
+      "index": 16,
+      "displayToken": "đã",
+      "key": "đã",
+      "start": 31.99,
+      "end": 32.25,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L07",
+      "index": 17,
+      "displayToken": "có.",
+      "key": "có",
+      "start": 32.25,
+      "end": 32.51,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L07",
+      "index": 18,
+      "displayToken": "Đó",
+      "key": "đó",
+      "start": 32.77,
+      "end": 32.97,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L07",
+      "index": 19,
+      "displayToken": "là",
+      "key": "là",
+      "start": 32.97,
+      "end": 33.11,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L07",
+      "index": 20,
+      "displayToken": "cache",
+      "key": "cache",
+      "start": 33.11,
+      "end": 33.23,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L07",
+      "index": 21,
+      "displayToken": "hit.",
+      "key": "hit",
+      "start": 33.23,
+      "end": 33.49,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L08",
+      "index": 0,
+      "displayToken": "Dữ",
+      "key": "dữ",
+      "start": 33.96,
+      "end": 34.22,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L08",
+      "index": 1,
+      "displayToken": "liệu",
+      "key": "liệu",
+      "start": 34.22,
+      "end": 34.4,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L08",
+      "index": 2,
+      "displayToken": "trả",
+      "key": "trả",
+      "start": 34.4,
+      "end": 34.68,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L08",
+      "index": 3,
+      "displayToken": "về",
+      "key": "về",
+      "start": 34.68,
+      "end": 34.82,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L08",
+      "index": 4,
+      "displayToken": "từ",
+      "key": "từ",
+      "start": 34.82,
+      "end": 34.94,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L08",
+      "index": 5,
+      "displayToken": "cache,",
+      "key": "cache",
+      "start": 34.94,
+      "end": 35.36,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L08",
+      "index": 6,
+      "displayToken": "database",
+      "key": "database",
+      "start": 35.48,
+      "end": 36.04,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L08",
+      "index": 7,
+      "displayToken": "không",
+      "key": "không",
+      "start": 36.04,
+      "end": 36.28,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L08",
+      "index": 8,
+      "displayToken": "phải",
+      "key": "phải",
+      "start": 36.28,
+      "end": 36.46,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L08",
+      "index": 9,
+      "displayToken": "làm",
+      "key": "làm",
+      "start": 36.46,
+      "end": 36.6,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L08",
+      "index": 10,
+      "displayToken": "gì",
+      "key": "gì",
+      "start": 36.6,
+      "end": 36.72,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L08",
+      "index": 11,
+      "displayToken": "thêm.",
+      "key": "thêm",
+      "start": 36.72,
+      "end": 36.94,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L09",
+      "index": 0,
+      "displayToken": "Nhưng",
+      "key": "nhưng",
+      "start": 37.41,
+      "end": 37.63,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L09",
+      "index": 1,
+      "displayToken": "hit",
+      "key": "hit",
+      "start": 37.63,
+      "end": 37.85,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L09",
+      "index": 2,
+      "displayToken": "không",
+      "key": "không",
+      "start": 37.85,
+      "end": 38.07,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L09",
+      "index": 3,
+      "displayToken": "có",
+      "key": "có",
+      "start": 38.07,
+      "end": 38.23,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L09",
+      "index": 4,
+      "displayToken": "nghĩa",
+      "key": "nghĩa",
+      "start": 38.23,
+      "end": 38.41,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L09",
+      "index": 5,
+      "displayToken": "là",
+      "key": "là",
+      "start": 38.41,
+      "end": 38.67,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L09",
+      "index": 6,
+      "displayToken": "dữ",
+      "key": "dữ",
+      "start": 38.67,
+      "end": 38.87,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L09",
+      "index": 7,
+      "displayToken": "liệu",
+      "key": "liệu",
+      "start": 38.87,
+      "end": 39.09,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L09",
+      "index": 8,
+      "displayToken": "luôn",
+      "key": "luôn",
+      "start": 39.09,
+      "end": 39.25,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L09",
+      "index": 9,
+      "displayToken": "mới",
+      "key": "mới",
+      "start": 39.25,
+      "end": 39.41,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L09",
+      "index": 10,
+      "displayToken": "nhất.",
+      "key": "nhất",
+      "start": 39.41,
+      "end": 39.73,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L09",
+      "index": 11,
+      "displayToken": "Nếu",
+      "key": "nếu",
+      "start": 39.95,
+      "end": 40.07,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L09",
+      "index": 12,
+      "displayToken": "dữ",
+      "key": "dữ",
+      "start": 40.07,
+      "end": 40.25,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L09",
+      "index": 13,
+      "displayToken": "liệu",
+      "key": "liệu",
+      "start": 40.25,
+      "end": 40.39,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L09",
+      "index": 14,
+      "displayToken": "gốc",
+      "key": "gốc",
+      "start": 40.39,
+      "end": 40.61,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L09",
+      "index": 15,
+      "displayToken": "đổi,",
+      "key": "đổi",
+      "start": 40.61,
+      "end": 40.87,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L09",
+      "index": 16,
+      "displayToken": "bản",
+      "key": "bản",
+      "start": 40.97,
+      "end": 41.13,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L09",
+      "index": 17,
+      "displayToken": "trong",
+      "key": "trong",
+      "start": 41.13,
+      "end": 41.29,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L09",
+      "index": 18,
+      "displayToken": "cache",
+      "key": "cache",
+      "start": 41.29,
+      "end": 41.41,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L09",
+      "index": 19,
+      "displayToken": "có",
+      "key": "có",
+      "start": 41.41,
+      "end": 41.61,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L09",
+      "index": 20,
+      "displayToken": "thể",
+      "key": "thể",
+      "start": 41.61,
+      "end": 41.83,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L09",
+      "index": 21,
+      "displayToken": "vẫn",
+      "key": "vẫn",
+      "start": 41.83,
+      "end": 41.97,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L09",
+      "index": 22,
+      "displayToken": "là",
+      "key": "là",
+      "start": 41.97,
+      "end": 42.13,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L09",
+      "index": 23,
+      "displayToken": "bản",
+      "key": "bản",
+      "start": 42.13,
+      "end": 42.27,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L09",
+      "index": 24,
+      "displayToken": "cũ.",
+      "key": "cũ",
+      "start": 42.27,
+      "end": 42.77,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L09",
+      "index": 25,
+      "displayToken": "Tập",
+      "key": "tập",
+      "start": 42.85,
+      "end": 42.97,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L09",
+      "index": 26,
+      "displayToken": "sau",
+      "key": "sau",
+      "start": 42.97,
+      "end": 43.15,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L09",
+      "index": 27,
+      "displayToken": "mình",
+      "key": "mình",
+      "start": 43.15,
+      "end": 43.33,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L09",
+      "index": 28,
+      "displayToken": "nói",
+      "key": "nói",
+      "start": 43.33,
+      "end": 43.55,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L09",
+      "index": 29,
+      "displayToken": "về",
+      "key": "về",
+      "start": 43.55,
+      "end": 43.69,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L09",
+      "index": 30,
+      "displayToken": "chuyện",
+      "key": "chuyện",
+      "start": 43.69,
+      "end": 43.83,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L09",
+      "index": 31,
+      "displayToken": "này.",
+      "key": "này",
+      "start": 43.83,
+      "end": 44.01,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L10",
+      "index": 0,
+      "displayToken": "Nhớ",
+      "key": "nhớ",
+      "start": 44.49,
+      "end": 44.75,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L10",
+      "index": 1,
+      "displayToken": "nhé:",
+      "key": "nhé",
+      "start": 44.75,
+      "end": 45.09,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L10",
+      "index": 2,
+      "displayToken": "hit",
+      "key": "hit",
+      "start": 45.11,
+      "end": 45.29,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L10",
+      "index": 3,
+      "displayToken": "là",
+      "key": "là",
+      "start": 45.29,
+      "end": 45.45,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L10",
+      "index": 4,
+      "displayToken": "cache",
+      "key": "cache",
+      "start": 45.45,
+      "end": 45.53,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L10",
+      "index": 5,
+      "displayToken": "đã",
+      "key": "đã",
+      "start": 45.53,
+      "end": 45.77,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L10",
+      "index": 6,
+      "displayToken": "có,",
+      "key": "có",
+      "start": 45.77,
+      "end": 46.13,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L10",
+      "index": 7,
+      "displayToken": "miss",
+      "key": "miss",
+      "start": 46.37,
+      "end": 46.45,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L10",
+      "index": 8,
+      "displayToken": "là",
+      "key": "là",
+      "start": 46.45,
+      "end": 46.55,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L10",
+      "index": 9,
+      "displayToken": "cache",
+      "key": "cache",
+      "start": 46.55,
+      "end": 46.77,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L10",
+      "index": 10,
+      "displayToken": "chưa",
+      "key": "chưa",
+      "start": 46.77,
+      "end": 46.93,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L10",
+      "index": 11,
+      "displayToken": "có",
+      "key": "có",
+      "start": 46.93,
+      "end": 47.07,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L10",
+      "index": 12,
+      "displayToken": "nên",
+      "key": "nên",
+      "start": 47.07,
+      "end": 47.19,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L10",
+      "index": 13,
+      "displayToken": "phải",
+      "key": "phải",
+      "start": 47.19,
+      "end": 47.37,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L10",
+      "index": 14,
+      "displayToken": "xuống",
+      "key": "xuống",
+      "start": 47.37,
+      "end": 47.55,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L10",
+      "index": 15,
+      "displayToken": "database.",
+      "key": "database",
+      "start": 47.55,
+      "end": 48.15,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L10",
+      "index": 16,
+      "displayToken": "Cùng",
+      "key": "cùng",
+      "start": 48.31,
+      "end": 48.43,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L10",
+      "index": 17,
+      "displayToken": "một",
+      "key": "một",
+      "start": 48.43,
+      "end": 48.61,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L10",
+      "index": 18,
+      "displayToken": "request,",
+      "key": "request",
+      "start": 48.61,
+      "end": 49.07,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L10",
+      "index": 19,
+      "displayToken": "hai",
+      "key": "hai",
+      "start": 49.13,
+      "end": 49.31,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L10",
+      "index": 20,
+      "displayToken": "đường",
+      "key": "đường",
+      "start": 49.31,
+      "end": 49.45,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L10",
+      "index": 21,
+      "displayToken": "đi.",
+      "key": "đi",
+      "start": 49.45,
+      "end": 49.65,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L11",
+      "index": 0,
+      "displayToken": "Tập",
+      "key": "tập",
+      "start": 50.18,
+      "end": 50.36,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L11",
+      "index": 1,
+      "displayToken": "tới:",
+      "key": "tới",
+      "start": 50.36,
+      "end": 50.9,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L11",
+      "index": 2,
+      "displayToken": "dữ",
+      "key": "dữ",
+      "start": 51.18,
+      "end": 51.26,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L11",
+      "index": 3,
+      "displayToken": "liệu",
+      "key": "liệu",
+      "start": 51.26,
+      "end": 51.48,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L11",
+      "index": 4,
+      "displayToken": "trong",
+      "key": "trong",
+      "start": 51.48,
+      "end": 51.64,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L11",
+      "index": 5,
+      "displayToken": "cache",
+      "key": "cache",
+      "start": 51.64,
+      "end": 51.8,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L11",
+      "index": 6,
+      "displayToken": "sống",
+      "key": "sống",
+      "start": 51.8,
+      "end": 52.02,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L11",
+      "index": 7,
+      "displayToken": "được",
+      "key": "được",
+      "start": 52.02,
+      "end": 52.2,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L11",
+      "index": 8,
+      "displayToken": "bao",
+      "key": "bao",
+      "start": 52.2,
+      "end": 52.38,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "lineId": "L11",
+      "index": 9,
+      "displayToken": "lâu?",
+      "key": "lâu",
+      "start": 52.38,
+      "end": 52.56,
+      "origin": "asr",
+      "reviewStatus": "unreviewed"
+    }
+  ]
+}

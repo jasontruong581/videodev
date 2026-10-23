@@ -65,5 +65,13 @@
     "ideaId": "IDEA003",
     "path": "episodes/EP002-cache-hit-miss",
     "status": "script_approved"
+  },
+  "brand": {
+    "cornerLabel": "AI Daily Tech",
+    "cornerLabelStatus": "tentative_channel_not_created"
+  },
+  "audio": {
+    "sfxSource": "D:/Project/videobds/public/sfx",
+    "musicInEp002": false
   }
 }

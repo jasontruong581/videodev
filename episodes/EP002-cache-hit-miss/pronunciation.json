@@ -1,0 +1,11 @@
+{
+  "note": "Từ hiển thị (viết thường) -> cách đọc đưa TTS. Cách đọc 'cache' do chủ kênh chọn; các từ còn lại chờ nghe thử.",
+  "map": {
+    "cache": "cách",
+    "hit": "hít",
+    "miss": "mít",
+    "request": "ri-quét",
+    "app": "áp",
+    "database": "đây-ta-bây"
+  }
+}

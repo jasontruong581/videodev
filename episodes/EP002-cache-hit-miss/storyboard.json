@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "episodeId": "EP002",
+  "tailSec": 1.2,
+  "cues": [
+    {"name": "stageIn", "lineId": "L02", "token": "giả"},
+    {"name": "appIn", "lineId": "L02", "token": "app"},
+    {"name": "clientIn", "lineId": "L02", "token": "hiển"},
+    {"name": "cacheIn", "lineId": "L02", "token": "cache"},
+    {"name": "dbIn", "lineId": "L02", "token": "database"},
+    {"name": "dbData", "lineId": "L03", "token": "database"},
+    {"name": "dbLabel", "lineId": "L03", "token": "gốc"},
+    {"name": "cacheLabel", "lineId": "L03", "token": "cache"},
+    {"name": "r1Start", "lineId": "L04", "token": "request"},
+    {"name": "r1Ask", "lineId": "L04", "token": "hỏi"},
+    {"name": "r1Miss", "lineId": "L04", "token": "miss"},
+    {"name": "r1ToDb", "lineId": "L05", "token": "xuống"},
+    {"name": "r1FromDb", "lineId": "L05", "token": "lấy"},
+    {"name": "r1Fill", "lineId": "L05", "token": "ghi"},
+    {"name": "r1Return", "lineId": "L05", "token": "trả"},
+    {"name": "notError", "lineId": "L06", "token": "không"},
+    {"name": "r2Start", "lineId": "L07", "token": "request"},
+    {"name": "r2Ask", "lineId": "L07", "token": "hỏi", "occurrence": 2},
+    {"name": "r2Hit", "lineId": "L07", "token": "hit"},
+    {"name": "r2Return", "lineId": "L08", "token": "trả"},
+    {"name": "dbDim", "lineId": "L08", "token": "database"},
+    {"name": "staleIn", "lineId": "L09", "token": "nhưng"},
+    {"name": "dbChange", "lineId": "L09", "token": "đổi"},
+    {"name": "cacheStale", "lineId": "L09", "token": "cũ"},
+    {"name": "recapIn", "lineId": "L10", "token": "nhớ"},
+    {"name": "recapHit", "lineId": "L10", "token": "hit"},
+    {"name": "recapMiss", "lineId": "L10", "token": "miss"},
+    {"name": "outroIn", "lineId": "L11", "token": "tập"}
+  ],
+  "sfx": [
+    {"name": "whoosh-01", "cue": "r1Start", "volume": 0.35},
+    {"name": "pop-01", "cue": "r1Miss", "volume": 0.4},
+    {"name": "whoosh-02", "cue": "r2Start", "volume": 0.35},
+    {"name": "ding-02", "cue": "r2Hit", "volume": 0.4},
+    {"name": "whoosh-01", "cue": "recapIn", "volume": 0.3}
+  ]
+}

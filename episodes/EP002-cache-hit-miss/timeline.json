@@ -1,0 +1,2505 @@
+{
+  "schemaVersion": 1,
+  "episodeId": "EP002",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "totalFrames": 1615,
+  "cornerLabel": "AI Daily Tech",
+  "lines": [
+    {
+      "id": "L01",
+      "startFrame": 2,
+      "endFrame": 112
+    },
+    {
+      "id": "L02",
+      "startFrame": 126,
+      "endFrame": 278
+    },
+    {
+      "id": "L03",
+      "startFrame": 291,
+      "endFrame": 396
+    },
+    {
+      "id": "L04",
+      "startFrame": 409,
+      "endFrame": 553
+    },
+    {
+      "id": "L05",
+      "startFrame": 566,
+      "endFrame": 689
+    },
+    {
+      "id": "L06",
+      "startFrame": 702,
+      "endFrame": 829
+    },
+    {
+      "id": "L07",
+      "startFrame": 842,
+      "endFrame": 1005
+    },
+    {
+      "id": "L08",
+      "startFrame": 1019,
+      "endFrame": 1109
+    },
+    {
+      "id": "L09",
+      "startFrame": 1122,
+      "endFrame": 1321
+    },
+    {
+      "id": "L10",
+      "startFrame": 1335,
+      "endFrame": 1492
+    },
+    {
+      "id": "L11",
+      "startFrame": 1505,
+      "endFrame": 1579
+    }
+  ],
+  "words": [
+    {
+      "lineId": "L01",
+      "index": 0,
+      "text": "Cùng",
+      "key": "cùng",
+      "startFrame": 2,
+      "endFrame": 7,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L01",
+      "index": 1,
+      "text": "một",
+      "key": "một",
+      "startFrame": 7,
+      "endFrame": 12,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L01",
+      "index": 2,
+      "text": "request,",
+      "key": "request",
+      "startFrame": 12,
+      "endFrame": 28,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L01",
+      "index": 3,
+      "text": "vì",
+      "key": "vì",
+      "startFrame": 33,
+      "endFrame": 36,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L01",
+      "index": 4,
+      "text": "sao",
+      "key": "sao",
+      "startFrame": 36,
+      "endFrame": 40,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L01",
+      "index": 5,
+      "text": "lúc",
+      "key": "lúc",
+      "startFrame": 40,
+      "endFrame": 44,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L01",
+      "index": 6,
+      "text": "thì",
+      "key": "thì",
+      "startFrame": 44,
+      "endFrame": 49,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L01",
+      "index": 7,
+      "text": "lấy",
+      "key": "lấy",
+      "startFrame": 49,
+      "endFrame": 53,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L01",
+      "index": 8,
+      "text": "từ",
+      "key": "từ",
+      "startFrame": 53,
+      "endFrame": 58,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L01",
+      "index": 9,
+      "text": "cache,",
+      "key": "cache",
+      "startFrame": 58,
+      "endFrame": 65,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L01",
+      "index": 10,
+      "text": "lúc",
+      "key": "lúc",
+      "startFrame": 77,
+      "endFrame": 81,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L01",
+      "index": 11,
+      "text": "lại",
+      "key": "lại",
+      "startFrame": 81,
+      "endFrame": 85,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L01",
+      "index": 12,
+      "text": "phải",
+      "key": "phải",
+      "startFrame": 85,
+      "endFrame": 90,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L01",
+      "index": 13,
+      "text": "xuống",
+      "key": "xuống",
+      "startFrame": 90,
+      "endFrame": 95,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L01",
+      "index": 14,
+      "text": "database?",
+      "key": "database",
+      "startFrame": 95,
+      "endFrame": 109,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L02",
+      "index": 0,
+      "text": "Giả",
+      "key": "giả",
+      "startFrame": 126,
+      "endFrame": 135,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L02",
+      "index": 1,
+      "text": "sử",
+      "key": "sử",
+      "startFrame": 135,
+      "endFrame": 140,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L02",
+      "index": 2,
+      "text": "app",
+      "key": "app",
+      "startFrame": 140,
+      "endFrame": 146,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L02",
+      "index": 3,
+      "text": "cần",
+      "key": "cần",
+      "startFrame": 146,
+      "endFrame": 152,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L02",
+      "index": 4,
+      "text": "hiển",
+      "key": "hiển",
+      "startFrame": 152,
+      "endFrame": 160,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L02",
+      "index": 5,
+      "text": "thị",
+      "key": "thị",
+      "startFrame": 160,
+      "endFrame": 164,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L02",
+      "index": 6,
+      "text": "một",
+      "key": "một",
+      "startFrame": 164,
+      "endFrame": 170,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L02",
+      "index": 7,
+      "text": "sản",
+      "key": "sản",
+      "startFrame": 170,
+      "endFrame": 174,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L02",
+      "index": 8,
+      "text": "phẩm.",
+      "key": "phẩm",
+      "startFrame": 174,
+      "endFrame": 186,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L02",
+      "index": 9,
+      "text": "Phía",
+      "key": "phía",
+      "startFrame": 187,
+      "endFrame": 192,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L02",
+      "index": 10,
+      "text": "sau",
+      "key": "sau",
+      "startFrame": 192,
+      "endFrame": 197,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L02",
+      "index": 11,
+      "text": "app",
+      "key": "app",
+      "startFrame": 197,
+      "endFrame": 203,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L02",
+      "index": 12,
+      "text": "có",
+      "key": "có",
+      "startFrame": 203,
+      "endFrame": 207,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L02",
+      "index": 13,
+      "text": "hai",
+      "key": "hai",
+      "startFrame": 207,
+      "endFrame": 215,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L02",
+      "index": 14,
+      "text": "chỗ",
+      "key": "chỗ",
+      "startFrame": 215,
+      "endFrame": 222,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L02",
+      "index": 15,
+      "text": "để",
+      "key": "để",
+      "startFrame": 222,
+      "endFrame": 227,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L02",
+      "index": 16,
+      "text": "lấy",
+      "key": "lấy",
+      "startFrame": 227,
+      "endFrame": 231,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L02",
+      "index": 17,
+      "text": "dữ",
+      "key": "dữ",
+      "startFrame": 231,
+      "endFrame": 236,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L02",
+      "index": 18,
+      "text": "liệu:",
+      "key": "liệu",
+      "startFrame": 236,
+      "endFrame": 251,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L02",
+      "index": 19,
+      "text": "cache",
+      "key": "cache",
+      "startFrame": 257,
+      "endFrame": 260,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L02",
+      "index": 20,
+      "text": "và",
+      "key": "và",
+      "startFrame": 260,
+      "endFrame": 265,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L02",
+      "index": 21,
+      "text": "database.",
+      "key": "database",
+      "startFrame": 265,
+      "endFrame": 276,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L03",
+      "index": 0,
+      "text": "Database",
+      "key": "database",
+      "startFrame": 291,
+      "endFrame": 307,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L03",
+      "index": 1,
+      "text": "giữ",
+      "key": "giữ",
+      "startFrame": 307,
+      "endFrame": 312,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L03",
+      "index": 2,
+      "text": "dữ",
+      "key": "dữ",
+      "startFrame": 312,
+      "endFrame": 315,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L03",
+      "index": 3,
+      "text": "liệu",
+      "key": "liệu",
+      "startFrame": 315,
+      "endFrame": 321,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L03",
+      "index": 4,
+      "text": "gốc.",
+      "key": "gốc",
+      "startFrame": 321,
+      "endFrame": 333,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L03",
+      "index": 5,
+      "text": "Cache",
+      "key": "cache",
+      "startFrame": 338,
+      "endFrame": 341,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L03",
+      "index": 6,
+      "text": "là",
+      "key": "là",
+      "startFrame": 341,
+      "endFrame": 347,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L03",
+      "index": 7,
+      "text": "bộ",
+      "key": "bộ",
+      "startFrame": 347,
+      "endFrame": 353,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L03",
+      "index": 8,
+      "text": "nhớ",
+      "key": "nhớ",
+      "startFrame": 353,
+      "endFrame": 359,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L03",
+      "index": 9,
+      "text": "đệm,",
+      "key": "đệm",
+      "startFrame": 359,
+      "endFrame": 371,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L03",
+      "index": 10,
+      "text": "truy",
+      "key": "truy",
+      "startFrame": 373,
+      "endFrame": 377,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L03",
+      "index": 11,
+      "text": "cập",
+      "key": "cập",
+      "startFrame": 377,
+      "endFrame": 381,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L03",
+      "index": 12,
+      "text": "nhanh",
+      "key": "nhanh",
+      "startFrame": 381,
+      "endFrame": 390,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L03",
+      "index": 13,
+      "text": "hơn.",
+      "key": "hơn",
+      "startFrame": 390,
+      "endFrame": 393,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L04",
+      "index": 0,
+      "text": "Request",
+      "key": "request",
+      "startFrame": 409,
+      "endFrame": 423,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L04",
+      "index": 1,
+      "text": "đầu",
+      "key": "đầu",
+      "startFrame": 423,
+      "endFrame": 429,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L04",
+      "index": 2,
+      "text": "tiên",
+      "key": "tiên",
+      "startFrame": 429,
+      "endFrame": 437,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L04",
+      "index": 3,
+      "text": "đến.",
+      "key": "đến",
+      "startFrame": 437,
+      "endFrame": 448,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L04",
+      "index": 4,
+      "text": "App",
+      "key": "app",
+      "startFrame": 452,
+      "endFrame": 458,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L04",
+      "index": 5,
+      "text": "hỏi",
+      "key": "hỏi",
+      "startFrame": 458,
+      "endFrame": 464,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L04",
+      "index": 6,
+      "text": "cache",
+      "key": "cache",
+      "startFrame": 464,
+      "endFrame": 470,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L04",
+      "index": 7,
+      "text": "trước,",
+      "key": "trước",
+      "startFrame": 470,
+      "endFrame": 482,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L04",
+      "index": 8,
+      "text": "nhưng",
+      "key": "nhưng",
+      "startFrame": 488,
+      "endFrame": 491,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L04",
+      "index": 9,
+      "text": "cache",
+      "key": "cache",
+      "startFrame": 491,
+      "endFrame": 497,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L04",
+      "index": 10,
+      "text": "chưa",
+      "key": "chưa",
+      "startFrame": 497,
+      "endFrame": 501,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L04",
+      "index": 11,
+      "text": "có",
+      "key": "có",
+      "startFrame": 501,
+      "endFrame": 505,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L04",
+      "index": 12,
+      "text": "sản",
+      "key": "sản",
+      "startFrame": 505,
+      "endFrame": 509,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L04",
+      "index": 13,
+      "text": "phẩm",
+      "key": "phẩm",
+      "startFrame": 509,
+      "endFrame": 514,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L04",
+      "index": 14,
+      "text": "này.",
+      "key": "này",
+      "startFrame": 514,
+      "endFrame": 522,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L04",
+      "index": 15,
+      "text": "Đó",
+      "key": "đó",
+      "startFrame": 531,
+      "endFrame": 537,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L04",
+      "index": 16,
+      "text": "là",
+      "key": "là",
+      "startFrame": 537,
+      "endFrame": 541,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L04",
+      "index": 17,
+      "text": "cache",
+      "key": "cache",
+      "startFrame": 541,
+      "endFrame": 547,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L04",
+      "index": 18,
+      "text": "miss.",
+      "key": "miss",
+      "startFrame": 547,
+      "endFrame": 552,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L05",
+      "index": 0,
+      "text": "App",
+      "key": "app",
+      "startFrame": 566,
+      "endFrame": 573,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L05",
+      "index": 1,
+      "text": "xuống",
+      "key": "xuống",
+      "startFrame": 573,
+      "endFrame": 578,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L05",
+      "index": 2,
+      "text": "database",
+      "key": "database",
+      "startFrame": 578,
+      "endFrame": 595,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L05",
+      "index": 3,
+      "text": "lấy",
+      "key": "lấy",
+      "startFrame": 595,
+      "endFrame": 599,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L05",
+      "index": 4,
+      "text": "dữ",
+      "key": "dữ",
+      "startFrame": 599,
+      "endFrame": 605,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L05",
+      "index": 5,
+      "text": "liệu,",
+      "key": "liệu",
+      "startFrame": 605,
+      "endFrame": 617,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L05",
+      "index": 6,
+      "text": "ghi",
+      "key": "ghi",
+      "startFrame": 626,
+      "endFrame": 629,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L05",
+      "index": 7,
+      "text": "một",
+      "key": "một",
+      "startFrame": 629,
+      "endFrame": 637,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L05",
+      "index": 8,
+      "text": "bản",
+      "key": "bản",
+      "startFrame": 637,
+      "endFrame": 642,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L05",
+      "index": 9,
+      "text": "vào",
+      "key": "vào",
+      "startFrame": 642,
+      "endFrame": 648,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L05",
+      "index": 10,
+      "text": "cache,",
+      "key": "cache",
+      "startFrame": 648,
+      "endFrame": 654,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L05",
+      "index": 11,
+      "text": "rồi",
+      "key": "rồi",
+      "startFrame": 664,
+      "endFrame": 668,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L05",
+      "index": 12,
+      "text": "mới",
+      "key": "mới",
+      "startFrame": 668,
+      "endFrame": 674,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L05",
+      "index": 13,
+      "text": "trả",
+      "key": "trả",
+      "startFrame": 674,
+      "endFrame": 679,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L05",
+      "index": 14,
+      "text": "kết",
+      "key": "kết",
+      "startFrame": 679,
+      "endFrame": 683,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L05",
+      "index": 15,
+      "text": "quả.",
+      "key": "quả",
+      "startFrame": 683,
+      "endFrame": 688,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L06",
+      "index": 0,
+      "text": "Cache",
+      "key": "cache",
+      "startFrame": 702,
+      "endFrame": 708,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L06",
+      "index": 1,
+      "text": "miss",
+      "key": "miss",
+      "startFrame": 708,
+      "endFrame": 716,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L06",
+      "index": 2,
+      "text": "không",
+      "key": "không",
+      "startFrame": 716,
+      "endFrame": 725,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L06",
+      "index": 3,
+      "text": "phải",
+      "key": "phải",
+      "startFrame": 725,
+      "endFrame": 730,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L06",
+      "index": 4,
+      "text": "lỗi.",
+      "key": "lỗi",
+      "startFrame": 730,
+      "endFrame": 743,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L06",
+      "index": 5,
+      "text": "Nó",
+      "key": "nó",
+      "startFrame": 746,
+      "endFrame": 752,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L06",
+      "index": 6,
+      "text": "chỉ",
+      "key": "chỉ",
+      "startFrame": 752,
+      "endFrame": 758,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L06",
+      "index": 7,
+      "text": "cho",
+      "key": "cho",
+      "startFrame": 758,
+      "endFrame": 763,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L06",
+      "index": 8,
+      "text": "biết",
+      "key": "biết",
+      "startFrame": 763,
+      "endFrame": 775,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L06",
+      "index": 9,
+      "text": "lần",
+      "key": "lần",
+      "startFrame": 775,
+      "endFrame": 785,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L06",
+      "index": 10,
+      "text": "này",
+      "key": "này",
+      "startFrame": 785,
+      "endFrame": 792,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L06",
+      "index": 11,
+      "text": "cache",
+      "key": "cache",
+      "startFrame": 792,
+      "endFrame": 797,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L06",
+      "index": 12,
+      "text": "chưa",
+      "key": "chưa",
+      "startFrame": 797,
+      "endFrame": 807,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L06",
+      "index": 13,
+      "text": "có",
+      "key": "có",
+      "startFrame": 807,
+      "endFrame": 812,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L06",
+      "index": 14,
+      "text": "thứ",
+      "key": "thứ",
+      "startFrame": 812,
+      "endFrame": 816,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L06",
+      "index": 15,
+      "text": "cần",
+      "key": "cần",
+      "startFrame": 816,
+      "endFrame": 821,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L06",
+      "index": 16,
+      "text": "tìm.",
+      "key": "tìm",
+      "startFrame": 821,
+      "endFrame": 828,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L07",
+      "index": 0,
+      "text": "Request",
+      "key": "request",
+      "startFrame": 842,
+      "endFrame": 855,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L07",
+      "index": 1,
+      "text": "thứ",
+      "key": "thứ",
+      "startFrame": 855,
+      "endFrame": 860,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L07",
+      "index": 2,
+      "text": "hai",
+      "key": "hai",
+      "startFrame": 860,
+      "endFrame": 866,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L07",
+      "index": 3,
+      "text": "hỏi",
+      "key": "hỏi",
+      "startFrame": 866,
+      "endFrame": 874,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L07",
+      "index": 4,
+      "text": "cùng",
+      "key": "cùng",
+      "startFrame": 874,
+      "endFrame": 880,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L07",
+      "index": 5,
+      "text": "sản",
+      "key": "sản",
+      "startFrame": 880,
+      "endFrame": 885,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L07",
+      "index": 6,
+      "text": "phẩm.",
+      "key": "phẩm",
+      "startFrame": 885,
+      "endFrame": 899,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L07",
+      "index": 7,
+      "text": "App",
+      "key": "app",
+      "startFrame": 902,
+      "endFrame": 906,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L07",
+      "index": 8,
+      "text": "vẫn",
+      "key": "vẫn",
+      "startFrame": 906,
+      "endFrame": 911,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L07",
+      "index": 9,
+      "text": "hỏi",
+      "key": "hỏi",
+      "startFrame": 911,
+      "endFrame": 917,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L07",
+      "index": 10,
+      "text": "cache",
+      "key": "cache",
+      "startFrame": 917,
+      "endFrame": 921,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L07",
+      "index": 11,
+      "text": "trước,",
+      "key": "trước",
+      "startFrame": 921,
+      "endFrame": 932,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L07",
+      "index": 12,
+      "text": "và",
+      "key": "và",
+      "startFrame": 943,
+      "endFrame": 947,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L07",
+      "index": 13,
+      "text": "lần",
+      "key": "lần",
+      "startFrame": 947,
+      "endFrame": 950,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L07",
+      "index": 14,
+      "text": "này",
+      "key": "này",
+      "startFrame": 950,
+      "endFrame": 956,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L07",
+      "index": 15,
+      "text": "cache",
+      "key": "cache",
+      "startFrame": 956,
+      "endFrame": 960,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L07",
+      "index": 16,
+      "text": "đã",
+      "key": "đã",
+      "startFrame": 960,
+      "endFrame": 968,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L07",
+      "index": 17,
+      "text": "có.",
+      "key": "có",
+      "startFrame": 968,
+      "endFrame": 975,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L07",
+      "index": 18,
+      "text": "Đó",
+      "key": "đó",
+      "startFrame": 983,
+      "endFrame": 989,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L07",
+      "index": 19,
+      "text": "là",
+      "key": "là",
+      "startFrame": 989,
+      "endFrame": 993,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L07",
+      "index": 20,
+      "text": "cache",
+      "key": "cache",
+      "startFrame": 993,
+      "endFrame": 997,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L07",
+      "index": 21,
+      "text": "hit.",
+      "key": "hit",
+      "startFrame": 997,
+      "endFrame": 1005,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L08",
+      "index": 0,
+      "text": "Dữ",
+      "key": "dữ",
+      "startFrame": 1019,
+      "endFrame": 1027,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L08",
+      "index": 1,
+      "text": "liệu",
+      "key": "liệu",
+      "startFrame": 1027,
+      "endFrame": 1032,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L08",
+      "index": 2,
+      "text": "trả",
+      "key": "trả",
+      "startFrame": 1032,
+      "endFrame": 1040,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L08",
+      "index": 3,
+      "text": "về",
+      "key": "về",
+      "startFrame": 1040,
+      "endFrame": 1045,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L08",
+      "index": 4,
+      "text": "từ",
+      "key": "từ",
+      "startFrame": 1045,
+      "endFrame": 1048,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L08",
+      "index": 5,
+      "text": "cache,",
+      "key": "cache",
+      "startFrame": 1048,
+      "endFrame": 1061,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L08",
+      "index": 6,
+      "text": "database",
+      "key": "database",
+      "startFrame": 1064,
+      "endFrame": 1081,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L08",
+      "index": 7,
+      "text": "không",
+      "key": "không",
+      "startFrame": 1081,
+      "endFrame": 1088,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L08",
+      "index": 8,
+      "text": "phải",
+      "key": "phải",
+      "startFrame": 1088,
+      "endFrame": 1094,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L08",
+      "index": 9,
+      "text": "làm",
+      "key": "làm",
+      "startFrame": 1094,
+      "endFrame": 1098,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L08",
+      "index": 10,
+      "text": "gì",
+      "key": "gì",
+      "startFrame": 1098,
+      "endFrame": 1102,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L08",
+      "index": 11,
+      "text": "thêm.",
+      "key": "thêm",
+      "startFrame": 1102,
+      "endFrame": 1108,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L09",
+      "index": 0,
+      "text": "Nhưng",
+      "key": "nhưng",
+      "startFrame": 1122,
+      "endFrame": 1129,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L09",
+      "index": 1,
+      "text": "hit",
+      "key": "hit",
+      "startFrame": 1129,
+      "endFrame": 1135,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L09",
+      "index": 2,
+      "text": "không",
+      "key": "không",
+      "startFrame": 1135,
+      "endFrame": 1142,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L09",
+      "index": 3,
+      "text": "có",
+      "key": "có",
+      "startFrame": 1142,
+      "endFrame": 1147,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L09",
+      "index": 4,
+      "text": "nghĩa",
+      "key": "nghĩa",
+      "startFrame": 1147,
+      "endFrame": 1152,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L09",
+      "index": 5,
+      "text": "là",
+      "key": "là",
+      "startFrame": 1152,
+      "endFrame": 1160,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L09",
+      "index": 6,
+      "text": "dữ",
+      "key": "dữ",
+      "startFrame": 1160,
+      "endFrame": 1166,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L09",
+      "index": 7,
+      "text": "liệu",
+      "key": "liệu",
+      "startFrame": 1166,
+      "endFrame": 1173,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L09",
+      "index": 8,
+      "text": "luôn",
+      "key": "luôn",
+      "startFrame": 1173,
+      "endFrame": 1178,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L09",
+      "index": 9,
+      "text": "mới",
+      "key": "mới",
+      "startFrame": 1178,
+      "endFrame": 1182,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L09",
+      "index": 10,
+      "text": "nhất.",
+      "key": "nhất",
+      "startFrame": 1182,
+      "endFrame": 1192,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L09",
+      "index": 11,
+      "text": "Nếu",
+      "key": "nếu",
+      "startFrame": 1198,
+      "endFrame": 1202,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L09",
+      "index": 12,
+      "text": "dữ",
+      "key": "dữ",
+      "startFrame": 1202,
+      "endFrame": 1208,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L09",
+      "index": 13,
+      "text": "liệu",
+      "key": "liệu",
+      "startFrame": 1208,
+      "endFrame": 1212,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L09",
+      "index": 14,
+      "text": "gốc",
+      "key": "gốc",
+      "startFrame": 1212,
+      "endFrame": 1218,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L09",
+      "index": 15,
+      "text": "đổi,",
+      "key": "đổi",
+      "startFrame": 1218,
+      "endFrame": 1226,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L09",
+      "index": 16,
+      "text": "bản",
+      "key": "bản",
+      "startFrame": 1229,
+      "endFrame": 1234,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L09",
+      "index": 17,
+      "text": "trong",
+      "key": "trong",
+      "startFrame": 1234,
+      "endFrame": 1239,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L09",
+      "index": 18,
+      "text": "cache",
+      "key": "cache",
+      "startFrame": 1239,
+      "endFrame": 1242,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L09",
+      "index": 19,
+      "text": "có",
+      "key": "có",
+      "startFrame": 1242,
+      "endFrame": 1248,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L09",
+      "index": 20,
+      "text": "thể",
+      "key": "thể",
+      "startFrame": 1248,
+      "endFrame": 1255,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L09",
+      "index": 21,
+      "text": "vẫn",
+      "key": "vẫn",
+      "startFrame": 1255,
+      "endFrame": 1259,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L09",
+      "index": 22,
+      "text": "là",
+      "key": "là",
+      "startFrame": 1259,
+      "endFrame": 1264,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L09",
+      "index": 23,
+      "text": "bản",
+      "key": "bản",
+      "startFrame": 1264,
+      "endFrame": 1268,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L09",
+      "index": 24,
+      "text": "cũ.",
+      "key": "cũ",
+      "startFrame": 1268,
+      "endFrame": 1283,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L09",
+      "index": 25,
+      "text": "Tập",
+      "key": "tập",
+      "startFrame": 1285,
+      "endFrame": 1289,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L09",
+      "index": 26,
+      "text": "sau",
+      "key": "sau",
+      "startFrame": 1289,
+      "endFrame": 1295,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L09",
+      "index": 27,
+      "text": "mình",
+      "key": "mình",
+      "startFrame": 1295,
+      "endFrame": 1300,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L09",
+      "index": 28,
+      "text": "nói",
+      "key": "nói",
+      "startFrame": 1300,
+      "endFrame": 1307,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L09",
+      "index": 29,
+      "text": "về",
+      "key": "về",
+      "startFrame": 1307,
+      "endFrame": 1311,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L09",
+      "index": 30,
+      "text": "chuyện",
+      "key": "chuyện",
+      "startFrame": 1311,
+      "endFrame": 1315,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L09",
+      "index": 31,
+      "text": "này.",
+      "key": "này",
+      "startFrame": 1315,
+      "endFrame": 1320,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L10",
+      "index": 0,
+      "text": "Nhớ",
+      "key": "nhớ",
+      "startFrame": 1335,
+      "endFrame": 1343,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L10",
+      "index": 1,
+      "text": "nhé:",
+      "key": "nhé",
+      "startFrame": 1343,
+      "endFrame": 1353,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L10",
+      "index": 2,
+      "text": "hit",
+      "key": "hit",
+      "startFrame": 1353,
+      "endFrame": 1359,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L10",
+      "index": 3,
+      "text": "là",
+      "key": "là",
+      "startFrame": 1359,
+      "endFrame": 1364,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L10",
+      "index": 4,
+      "text": "cache",
+      "key": "cache",
+      "startFrame": 1364,
+      "endFrame": 1366,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L10",
+      "index": 5,
+      "text": "đã",
+      "key": "đã",
+      "startFrame": 1366,
+      "endFrame": 1373,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L10",
+      "index": 6,
+      "text": "có,",
+      "key": "có",
+      "startFrame": 1373,
+      "endFrame": 1384,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L10",
+      "index": 7,
+      "text": "miss",
+      "key": "miss",
+      "startFrame": 1391,
+      "endFrame": 1394,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L10",
+      "index": 8,
+      "text": "là",
+      "key": "là",
+      "startFrame": 1394,
+      "endFrame": 1397,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L10",
+      "index": 9,
+      "text": "cache",
+      "key": "cache",
+      "startFrame": 1397,
+      "endFrame": 1403,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L10",
+      "index": 10,
+      "text": "chưa",
+      "key": "chưa",
+      "startFrame": 1403,
+      "endFrame": 1408,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L10",
+      "index": 11,
+      "text": "có",
+      "key": "có",
+      "startFrame": 1408,
+      "endFrame": 1412,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L10",
+      "index": 12,
+      "text": "nên",
+      "key": "nên",
+      "startFrame": 1412,
+      "endFrame": 1416,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L10",
+      "index": 13,
+      "text": "phải",
+      "key": "phải",
+      "startFrame": 1416,
+      "endFrame": 1421,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L10",
+      "index": 14,
+      "text": "xuống",
+      "key": "xuống",
+      "startFrame": 1421,
+      "endFrame": 1427,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L10",
+      "index": 15,
+      "text": "database.",
+      "key": "database",
+      "startFrame": 1427,
+      "endFrame": 1445,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L10",
+      "index": 16,
+      "text": "Cùng",
+      "key": "cùng",
+      "startFrame": 1449,
+      "endFrame": 1453,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L10",
+      "index": 17,
+      "text": "một",
+      "key": "một",
+      "startFrame": 1453,
+      "endFrame": 1458,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L10",
+      "index": 18,
+      "text": "request,",
+      "key": "request",
+      "startFrame": 1458,
+      "endFrame": 1472,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L10",
+      "index": 19,
+      "text": "hai",
+      "key": "hai",
+      "startFrame": 1474,
+      "endFrame": 1479,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L10",
+      "index": 20,
+      "text": "đường",
+      "key": "đường",
+      "startFrame": 1479,
+      "endFrame": 1484,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L10",
+      "index": 21,
+      "text": "đi.",
+      "key": "đi",
+      "startFrame": 1484,
+      "endFrame": 1490,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L11",
+      "index": 0,
+      "text": "Tập",
+      "key": "tập",
+      "startFrame": 1505,
+      "endFrame": 1511,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L11",
+      "index": 1,
+      "text": "tới:",
+      "key": "tới",
+      "startFrame": 1511,
+      "endFrame": 1527,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L11",
+      "index": 2,
+      "text": "dữ",
+      "key": "dữ",
+      "startFrame": 1535,
+      "endFrame": 1538,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L11",
+      "index": 3,
+      "text": "liệu",
+      "key": "liệu",
+      "startFrame": 1538,
+      "endFrame": 1544,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L11",
+      "index": 4,
+      "text": "trong",
+      "key": "trong",
+      "startFrame": 1544,
+      "endFrame": 1549,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L11",
+      "index": 5,
+      "text": "cache",
+      "key": "cache",
+      "startFrame": 1549,
+      "endFrame": 1554,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L11",
+      "index": 6,
+      "text": "sống",
+      "key": "sống",
+      "startFrame": 1554,
+      "endFrame": 1561,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L11",
+      "index": 7,
+      "text": "được",
+      "key": "được",
+      "startFrame": 1561,
+      "endFrame": 1566,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L11",
+      "index": 8,
+      "text": "bao",
+      "key": "bao",
+      "startFrame": 1566,
+      "endFrame": 1571,
+      "origin": "asr"
+    },
+    {
+      "lineId": "L11",
+      "index": 9,
+      "text": "lâu?",
+      "key": "lâu",
+      "startFrame": 1571,
+      "endFrame": 1577,
+      "origin": "asr"
+    }
+  ],
+  "captions": [
+    {
+      "id": "L01-1",
+      "lineId": "L01",
+      "startFrame": 2,
+      "endFrame": 33,
+      "wordIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "L01-2",
+      "lineId": "L01",
+      "startFrame": 33,
+      "endFrame": 58,
+      "wordIndexes": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "id": "L01-3",
+      "lineId": "L01",
+      "startFrame": 58,
+      "endFrame": 77,
+      "wordIndexes": [
+        9
+      ]
+    },
+    {
+      "id": "L01-4",
+      "lineId": "L01",
+      "startFrame": 77,
+      "endFrame": 115,
+      "wordIndexes": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "id": "L02-1",
+      "lineId": "L02",
+      "startFrame": 126,
+      "endFrame": 164,
+      "wordIndexes": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "id": "L02-2",
+      "lineId": "L02",
+      "startFrame": 164,
+      "endFrame": 187,
+      "wordIndexes": [
+        21,
+        22,
+        23
+      ]
+    },
+    {
+      "id": "L02-3",
+      "lineId": "L02",
+      "startFrame": 187,
+      "endFrame": 227,
+      "wordIndexes": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "L02-4",
+      "lineId": "L02",
+      "startFrame": 227,
+      "endFrame": 257,
+      "wordIndexes": [
+        31,
+        32,
+        33
+      ]
+    },
+    {
+      "id": "L02-5",
+      "lineId": "L02",
+      "startFrame": 257,
+      "endFrame": 282,
+      "wordIndexes": [
+        34,
+        35,
+        36
+      ]
+    },
+    {
+      "id": "L03-1",
+      "lineId": "L03",
+      "startFrame": 291,
+      "endFrame": 338,
+      "wordIndexes": [
+        37,
+        38,
+        39,
+        40,
+        41
+      ]
+    },
+    {
+      "id": "L03-2",
+      "lineId": "L03",
+      "startFrame": 338,
+      "endFrame": 373,
+      "wordIndexes": [
+        42,
+        43,
+        44,
+        45,
+        46
+      ]
+    },
+    {
+      "id": "L03-3",
+      "lineId": "L03",
+      "startFrame": 373,
+      "endFrame": 399,
+      "wordIndexes": [
+        47,
+        48,
+        49,
+        50
+      ]
+    },
+    {
+      "id": "L04-1",
+      "lineId": "L04",
+      "startFrame": 409,
+      "endFrame": 452,
+      "wordIndexes": [
+        51,
+        52,
+        53,
+        54
+      ]
+    },
+    {
+      "id": "L04-2",
+      "lineId": "L04",
+      "startFrame": 452,
+      "endFrame": 488,
+      "wordIndexes": [
+        55,
+        56,
+        57,
+        58
+      ]
+    },
+    {
+      "id": "L04-3",
+      "lineId": "L04",
+      "startFrame": 488,
+      "endFrame": 509,
+      "wordIndexes": [
+        59,
+        60,
+        61,
+        62,
+        63
+      ]
+    },
+    {
+      "id": "L04-4",
+      "lineId": "L04",
+      "startFrame": 509,
+      "endFrame": 531,
+      "wordIndexes": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "L04-5",
+      "lineId": "L04",
+      "startFrame": 531,
+      "endFrame": 558,
+      "wordIndexes": [
+        66,
+        67,
+        68,
+        69
+      ]
+    },
+    {
+      "id": "L05-1",
+      "lineId": "L05",
+      "startFrame": 566,
+      "endFrame": 605,
+      "wordIndexes": [
+        70,
+        71,
+        72,
+        73,
+        74
+      ]
+    },
+    {
+      "id": "L05-2",
+      "lineId": "L05",
+      "startFrame": 605,
+      "endFrame": 626,
+      "wordIndexes": [
+        75
+      ]
+    },
+    {
+      "id": "L05-3",
+      "lineId": "L05",
+      "startFrame": 626,
+      "endFrame": 664,
+      "wordIndexes": [
+        76,
+        77,
+        78,
+        79,
+        80
+      ]
+    },
+    {
+      "id": "L05-4",
+      "lineId": "L05",
+      "startFrame": 664,
+      "endFrame": 694,
+      "wordIndexes": [
+        81,
+        82,
+        83,
+        84,
+        85
+      ]
+    },
+    {
+      "id": "L06-1",
+      "lineId": "L06",
+      "startFrame": 702,
+      "endFrame": 746,
+      "wordIndexes": [
+        86,
+        87,
+        88,
+        89,
+        90
+      ]
+    },
+    {
+      "id": "L06-2",
+      "lineId": "L06",
+      "startFrame": 746,
+      "endFrame": 792,
+      "wordIndexes": [
+        91,
+        92,
+        93,
+        94,
+        95,
+        96
+      ]
+    },
+    {
+      "id": "L06-3",
+      "lineId": "L06",
+      "startFrame": 792,
+      "endFrame": 834,
+      "wordIndexes": [
+        97,
+        98,
+        99,
+        100,
+        101,
+        102
+      ]
+    },
+    {
+      "id": "L07-1",
+      "lineId": "L07",
+      "startFrame": 842,
+      "endFrame": 880,
+      "wordIndexes": [
+        103,
+        104,
+        105,
+        106,
+        107
+      ]
+    },
+    {
+      "id": "L07-2",
+      "lineId": "L07",
+      "startFrame": 880,
+      "endFrame": 902,
+      "wordIndexes": [
+        108,
+        109
+      ]
+    },
+    {
+      "id": "L07-3",
+      "lineId": "L07",
+      "startFrame": 902,
+      "endFrame": 943,
+      "wordIndexes": [
+        110,
+        111,
+        112,
+        113,
+        114
+      ]
+    },
+    {
+      "id": "L07-4",
+      "lineId": "L07",
+      "startFrame": 943,
+      "endFrame": 983,
+      "wordIndexes": [
+        115,
+        116,
+        117,
+        118,
+        119,
+        120
+      ]
+    },
+    {
+      "id": "L07-5",
+      "lineId": "L07",
+      "startFrame": 983,
+      "endFrame": 1011,
+      "wordIndexes": [
+        121,
+        122,
+        123,
+        124
+      ]
+    },
+    {
+      "id": "L08-1",
+      "lineId": "L08",
+      "startFrame": 1019,
+      "endFrame": 1064,
+      "wordIndexes": [
+        125,
+        126,
+        127,
+        128,
+        129,
+        130
+      ]
+    },
+    {
+      "id": "L08-2",
+      "lineId": "L08",
+      "startFrame": 1064,
+      "endFrame": 1114,
+      "wordIndexes": [
+        131,
+        132,
+        133,
+        134,
+        135,
+        136
+      ]
+    },
+    {
+      "id": "L09-1",
+      "lineId": "L09",
+      "startFrame": 1122,
+      "endFrame": 1152,
+      "wordIndexes": [
+        137,
+        138,
+        139,
+        140,
+        141
+      ]
+    },
+    {
+      "id": "L09-2",
+      "lineId": "L09",
+      "startFrame": 1152,
+      "endFrame": 1198,
+      "wordIndexes": [
+        142,
+        143,
+        144,
+        145,
+        146,
+        147
+      ]
+    },
+    {
+      "id": "L09-3",
+      "lineId": "L09",
+      "startFrame": 1198,
+      "endFrame": 1229,
+      "wordIndexes": [
+        148,
+        149,
+        150,
+        151,
+        152
+      ]
+    },
+    {
+      "id": "L09-4",
+      "lineId": "L09",
+      "startFrame": 1229,
+      "endFrame": 1259,
+      "wordIndexes": [
+        153,
+        154,
+        155,
+        156,
+        157,
+        158
+      ]
+    },
+    {
+      "id": "L09-5",
+      "lineId": "L09",
+      "startFrame": 1259,
+      "endFrame": 1285,
+      "wordIndexes": [
+        159,
+        160,
+        161
+      ]
+    },
+    {
+      "id": "L09-6",
+      "lineId": "L09",
+      "startFrame": 1285,
+      "endFrame": 1326,
+      "wordIndexes": [
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168
+      ]
+    },
+    {
+      "id": "L10-1",
+      "lineId": "L10",
+      "startFrame": 1335,
+      "endFrame": 1353,
+      "wordIndexes": [
+        169,
+        170
+      ]
+    },
+    {
+      "id": "L10-2",
+      "lineId": "L10",
+      "startFrame": 1353,
+      "endFrame": 1391,
+      "wordIndexes": [
+        171,
+        172,
+        173,
+        174,
+        175
+      ]
+    },
+    {
+      "id": "L10-3",
+      "lineId": "L10",
+      "startFrame": 1391,
+      "endFrame": 1416,
+      "wordIndexes": [
+        176,
+        177,
+        178,
+        179,
+        180,
+        181
+      ]
+    },
+    {
+      "id": "L10-4",
+      "lineId": "L10",
+      "startFrame": 1416,
+      "endFrame": 1449,
+      "wordIndexes": [
+        182,
+        183,
+        184
+      ]
+    },
+    {
+      "id": "L10-5",
+      "lineId": "L10",
+      "startFrame": 1449,
+      "endFrame": 1474,
+      "wordIndexes": [
+        185,
+        186,
+        187
+      ]
+    },
+    {
+      "id": "L10-6",
+      "lineId": "L10",
+      "startFrame": 1474,
+      "endFrame": 1496,
+      "wordIndexes": [
+        188,
+        189,
+        190
+      ]
+    },
+    {
+      "id": "L11-1",
+      "lineId": "L11",
+      "startFrame": 1505,
+      "endFrame": 1535,
+      "wordIndexes": [
+        191,
+        192
+      ]
+    },
+    {
+      "id": "L11-2",
+      "lineId": "L11",
+      "startFrame": 1535,
+      "endFrame": 1561,
+      "wordIndexes": [
+        193,
+        194,
+        195,
+        196,
+        197
+      ]
+    },
+    {
+      "id": "L11-3",
+      "lineId": "L11",
+      "startFrame": 1561,
+      "endFrame": 1583,
+      "wordIndexes": [
+        198,
+        199,
+        200
+      ]
+    }
+  ],
+  "cues": {
+    "stageIn": 126,
+    "appIn": 140,
+    "clientIn": 152,
+    "cacheIn": 257,
+    "dbIn": 265,
+    "dbData": 291,
+    "dbLabel": 321,
+    "cacheLabel": 338,
+    "r1Start": 409,
+    "r1Ask": 458,
+    "r1Miss": 547,
+    "r1ToDb": 573,
+    "r1FromDb": 595,
+    "r1Fill": 626,
+    "r1Return": 674,
+    "notError": 716,
+    "r2Start": 842,
+    "r2Ask": 911,
+    "r2Hit": 997,
+    "r2Return": 1032,
+    "dbDim": 1064,
+    "staleIn": 1122,
+    "dbChange": 1218,
+    "cacheStale": 1268,
+    "recapIn": 1335,
+    "recapHit": 1353,
+    "recapMiss": 1391,
+    "outroIn": 1505
+  },
+  "sfx": [
+    {
+      "name": "whoosh-01",
+      "frame": 409,
+      "volume": 0.35
+    },
+    {
+      "name": "pop-01",
+      "frame": 547,
+      "volume": 0.4
+    },
+    {
+      "name": "whoosh-02",
+      "frame": 842,
+      "volume": 0.35
+    },
+    {
+      "name": "ding-02",
+      "frame": 997,
+      "volume": 0.4
+    },
+    {
+      "name": "whoosh-01",
+      "frame": 1335,
+      "volume": 0.3
+    }
+  ]
+}

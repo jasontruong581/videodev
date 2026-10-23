@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "episodeId": "EP002",
+  "finalFile": "renders/EP002/final.mp4",
+  "sha256": "3668b733b346b377a9225981e72dc87263bafedb5cd53b298d99806257c03cea",
+  "durationSec": 53.833,
+  "loudness": {
+    "integratedLufs": -14.1,
+    "truePeakDbtp": -1.4,
+    "lra": 2
+  },
+  "checks": [
+    {
+      "name": "codec h264 + aac",
+      "pass": true,
+      "detail": "h264/aac"
+    },
+    {
+      "name": "1080x1920",
+      "pass": true,
+      "detail": "1080x1920"
+    },
+    {
+      "name": "30 fps",
+      "pass": true,
+      "detail": "30/1"
+    },
+    {
+      "name": "thời lượng <= 300s",
+      "pass": true,
+      "detail": "53.83s"
+    },
+    {
+      "name": "thời lượng khớp timeline",
+      "pass": true,
+      "detail": "53.83s vs 53.83s"
+    },
+    {
+      "name": "true peak <= -1 dBTP",
+      "pass": true,
+      "detail": "-1.4 dBTP"
+    },
+    {
+      "name": "loudness khoảng -14 LUFS (±2)",
+      "pass": true,
+      "detail": "-14.1 LUFS"
+    },
+    {
+      "name": "mốc từ tăng dần và trong video",
+      "pass": true,
+      "detail": "201 từ"
+    },
+    {
+      "name": "caption trong video, không chồng nhau",
+      "pass": true,
+      "detail": "46 cụm"
+    },
+    {
+      "name": "từ timing estimated",
+      "pass": true,
+      "detail": "0 từ estimated"
+    }
+  ],
+  "allPassed": true,
+  "contactSheet": "renders/EP002/contact-sheet.jpg"
+}
